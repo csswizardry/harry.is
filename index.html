@@ -5,10 +5,76 @@
   <meta name="viewport" content="width=device-width, minimum-scale=1.0" />
 
   <title>Harry Is…</title>
-</head>
-<body>
 
-  <h1>Harry is…</h1>
+  <style>
+
+    * {
+      margin: 0;
+      padding: 0;
+      font: inherit;
+    }
+
+    body {
+      background-color: #f43059;
+      color: #fff;
+      font-size: 10vw;
+      font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+      font-weight: 900;
+    }
+
+    a {
+      color: #fff;
+      text-decoration: none;
+    }
+
+    a:hover,
+    a:focus {
+      text-decoration: line-through;
+    }
+
+    .c-frame {
+      display: table;
+      width: 100%;
+      scroll-snap-type: y mandatory;
+    }
+
+      .c-frame__title {
+        position: sticky;
+        top: 0;
+        white-space: nowrap;
+        padding-right: 0.186206897em; /* Don’t ask… */
+      }
+
+      .c-frame__list {
+        list-style: none;
+        display: table-cell;
+        width: 100%;
+        text-transform: lowercase;
+      }
+
+        .c-frame__item {
+          scroll-snap-align: start;
+        }
+
+          .c-frame__item::after {
+            content: ".";
+          }
+
+  </style>
+
+</head>
+<body class="c-frame" data-instant-allow-external-links>
+
+  <h1 class="c-frame__title">Harry is…</h1>
+
+  <ul class="c-frame__list">
+    <li class="c-frame__item"><a href="https://csswizardry.com/services/" title="Hire me">Working</a></li>
+    <li class="c-frame__item"><a href="https://csswizardry.com/speaking/" title="See me speak">Speaking</a></li>
+    <li class="c-frame__item"><a href="https://csswizardry.com/archive/" title="Read my articles">Writing</a></li>
+    <li class="c-frame__item"><a href="https://csswizardry.com/contact/" title="Contact me">Chatting</a></li>
+    <li class="c-frame__item"><a href="https://twitter.com/csswizardry" title="Follow me on Twitter">Tweeting</a></li>
+    <li class="c-frame__item"><a href="https://github.com/csswizardry" title="See my open source work on GitHub">Coding</a></li>
+  </ul>
 
 </body>
 </html>
