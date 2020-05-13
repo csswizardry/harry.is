@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "announcement"
-tag: "announcement"
+title: "cocktail"
+tag: "cocktail"
 ---
 
 {% include tag.html %}
