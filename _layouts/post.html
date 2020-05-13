@@ -8,16 +8,8 @@ layout: default
   <a href="/{{ page.categories }}/" class="c-lozenge">{{ page.categories }}</a>
 </p>
 
-<!--
-<p><b>pageed on
-  <time class="page__date" datetime="{{ page.date | date: "%Y-%m-%d" }}">{{ page.date | date: "%-d %B, %Y" }}</time>,
-  filed in <a href="/{{ page.categories }}">{{ page.categories }}</a>,
-  and tagged with
-  {% assign tagz = page.tags | split: ", " %}
-  {% for taggg in tagz %}
-  <a href="/tag/{{ taggg }}">{{ taggg }}</a>
-  {% endfor %}
-</b></p>
--->
+<div class="s-prose">
 
-{{ content }}
+  {{ content }}
+
+</div>

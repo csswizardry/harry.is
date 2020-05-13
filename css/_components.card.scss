@@ -35,6 +35,11 @@
   text-align: right;
 }
 
+.c-card__meta {
+  @include font-size(14px);
+  color: #999;
+}
+
   .c-card__title {
     margin-bottom: 0;
   }

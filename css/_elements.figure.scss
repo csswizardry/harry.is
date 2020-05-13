@@ -1,0 +1,14 @@
+/* ==========================================================================
+   #FIGURE
+   ========================================================================== */
+
+figure {
+  margin-right: -$unit;
+  margin-left:  -$unit;
+}
+
+  figcaption {
+    margin-right: $unit;
+    margin-left:  $unit;
+    @include font-size(14px);
+  }

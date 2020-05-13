@@ -20,10 +20,13 @@
 @import "elements.links";
 @import "elements.lists";
 @import "elements.media";
+@import "elements.figure";
 
 @import "components.logo";
 @import "components.card";
 @import "components.lozenge";
 @import "components.site-header";
+
+@import "scope.prose";
 
 @import "utilities.show-hide";
