@@ -1,0 +1,8 @@
+title: harry.is
+email: csswizardry@gmail.com
+description: Cooking, cocktails, cycling
+
+# Build settings
+markdown: kramdown
+permalink: /:categories/:year/:month/:day/:title/
+paginate: 10
