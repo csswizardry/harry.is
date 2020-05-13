@@ -4,5 +4,5 @@ description: Cooking, cocktails, cycling
 
 # Build settings
 markdown: kramdown
-permalink: /:categories/:year/:month/:day/:title/
+permalink: /:categories/:title/
 paginate: 10
