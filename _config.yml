@@ -2,6 +2,8 @@ title: harry.is
 email: csswizardry@gmail.com
 description: Cooking, cocktails, cycling
 
+excerpt_separator: <!--more-->
+
 # Build settings
 markdown: kramdown
 permalink: /:categories/:title/

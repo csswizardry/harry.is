@@ -1,0 +1,57 @@
+/* ==========================================================================
+   #CARD
+   ========================================================================== */
+
+.c-card {
+  padding: 1.5rem;
+  background-color: #fff;
+  margin: 0;
+  padding: 1.5rem;
+  margin-bottom: 1.5rem;
+  list-style: none;
+  overflow: hidden;
+  border: 0 solid #f43059;
+  position: relative;
+  border-radius: 4px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.c-card:nth-of-type(odd) {
+  border-left-width: 0.75rem;
+  padding-left: 0.75rem;
+}
+
+.c-card:nth-of-type(even) {
+  border-right-width: 0.75rem;
+  padding-right: 0.75rem;
+  text-align: right;
+}
+
+  .c-card a {
+    position: relative;
+    z-index: 2;
+  }
+
+  .c-card__img {
+    border-radius: 50%;
+    shape-outside: circle();
+  }
+
+  .c-card:nth-of-type(odd) .c-card__img {
+    float: left;
+    margin-right: 1.5rem;
+  }
+
+  .c-card:nth-of-type(even) .c-card__img {
+    float: right;
+    margin-left: 1.5rem;
+  }
+
+  .c-card__cta.c-card__cta {
+    position: absolute;
+    top:    0;
+    right:  0;
+    bottom: 0;
+    left:   0;
+    z-index: 1;
+  }

@@ -2,39 +2,22 @@
    #HARRY.IS
    ========================================================================== */
 
-:root {
-  --color-brand: #f43059;
-}
+@import "settings.definitions";
 
+@import "generic.custom-properties";
 @import "generic.normalize";
+@import "generic.box-sizing";
+@import "generic.reset";
+@import "generic.shared";
 
-* {
-  margin:  0;
-  padding: 0;
-  box-sizing: border-box;
-}
+@import "elements.page";
+@import "elements.links";
+@import "elements.headings";
+@import "elements.typography";
+@import "elements.links";
+@import "elements.media";
 
-html {
-  font-family: Montserrat, sans-serif;
-  font-weight: 400;
-}
+@import "components.logo";
+@import "components.card";
 
-h1, h2, h3, h4, h5, h6 {
-  font-weight: 900;
-}
-
-b, strong {
-  font-weight: 600;
-}
-
-a,
-a:visited {
-  color: var(--color-brand);
-  text-decoration: none;
-
-  &:hover,
-  &:focus {
-    text-decoration: underline;
-  }
-
-}
+@import "utilities.show-hide";
