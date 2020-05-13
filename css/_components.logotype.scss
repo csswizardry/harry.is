@@ -4,9 +4,10 @@
 
 .c-logotype {
   text-transform: lowercase;
-    word-spacing: -.33em;
+    word-spacing: -.38em;
 }
   .c-logotype__is:before {
     content: ".";
+    color: $color-brand;
   }
 
