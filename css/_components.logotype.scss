@@ -1,14 +1,12 @@
 /* ==========================================================================
-   #LOZENGE
+   #LOGOTYPE
    ========================================================================== */
 
-.c-lozenge {
-  display: inline-block;
-  background-color: $color-brand;
-  padding: 1ch;
-
-  &#{&} {
-    color: #f9f9f9;
+.c-logotype {
+  text-transform: lowercase;
+    word-spacing: -.33em;
+}
+  .c-logotype__is:before {
+    content: ".";
   }
 
-}
