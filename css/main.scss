@@ -22,11 +22,15 @@
 @import "elements.media";
 @import "elements.figure";
 
+@import "objects.wrapper";
+
 @import "components.logo";
 @import "components.logotype";
 @import "components.card";
 @import "components.lozenge";
 @import "components.site-header";
+@import "components.site-nav";
+@import "components.site-footer";
 @import "components.pagination";
 
 @import "scope.prose";

@@ -1,8 +1,11 @@
 /* ==========================================================================
-   #SITE-HEADER
+   #SITE-FOOTER
    ========================================================================== */
 
-.c-site-header {
-  padding-top:    $unit-large;
-  padding-bottom: $unit-large;
+.c-site-footer {
+  background-color: #333;
+  text-align: center;
+  color: #f9f9f9;
+  padding-top:    $unit-huge;
+  padding-bottom: $unit-huge;
 }

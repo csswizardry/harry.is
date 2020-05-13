@@ -1,8 +1,11 @@
 /* ==========================================================================
-   #SITE-HEADER
+   #WRAPPER
    ========================================================================== */
 
-.c-site-header {
-  padding-top:    $unit-large;
-  padding-bottom: $unit-large;
+.o-wrapper {
+  max-width: 80ch;
+  margin-right: auto;
+  margin-left:  auto;
+  padding-right: $unit;
+  padding-left:  $unit;
 }
