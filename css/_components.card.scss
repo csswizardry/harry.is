@@ -57,6 +57,15 @@
 
   .c-card__title {
     margin-bottom: 0;
+
+    /**
+     * Give affordance to the full-size hit area by underlining the card link
+     * when we hover anywhere over the card.
+     */
+    .c-card:hover & a {
+      text-decoration: underline;
+    }
+
   }
 
   .c-card a {
