@@ -5,10 +5,10 @@
 .c-lozenge {
   display: inline-block;
   background-color: $color-brand;
-  padding: 1ch;
+  padding: $unit-small;
 
   &#{&} {
-    color: #f9f9f9;
+    color: $color-bg;
   }
 
 }

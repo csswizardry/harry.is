@@ -1,4 +1,7 @@
-<h1>{% include logotype.html %} {{ page.title }}</h1>
+<h1>
+  {% include logotype.html %}
+  <span class="c-lozenge">{{ page.title }}</span>
+</h1>
 
 <ul>
   {% for post in site.categories[page.category] %}

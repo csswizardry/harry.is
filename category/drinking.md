@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Drinking"
+title: "drinking"
 category: drinking
 permalink: /drinking/
 ---
