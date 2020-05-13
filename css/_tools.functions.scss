@@ -1,11 +1,8 @@
 /* ==========================================================================
-   #TYPOGRAPHY
+   #FUNCTIONS
    ========================================================================== */
 
-p:first-of-type {
-  @include font-size(18px);
-}
-
-b, strong {
-  font-weight: 700;
+@function rem($value) {
+  $rem: $value / 16px;
+  @return #{$rem}rem;
 }

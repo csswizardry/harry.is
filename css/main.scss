@@ -4,6 +4,9 @@
 
 @import "settings.definitions";
 
+@import "tools.functions";
+@import "tools.mixins";
+
 @import "generic.custom-properties";
 @import "generic.normalize";
 @import "generic.box-sizing";
@@ -15,9 +18,11 @@
 @import "elements.headings";
 @import "elements.typography";
 @import "elements.links";
+@import "elements.lists";
 @import "elements.media";
 
 @import "components.logo";
 @import "components.card";
+@import "components.lozenge";
 
 @import "utilities.show-hide";

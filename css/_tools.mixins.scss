@@ -1,0 +1,34 @@
+/* ==========================================================================
+   #MIXINS
+   ========================================================================== */
+
+@mixin font-size($font-size, $line-height: auto) {
+
+  @if (type-of($font-size) == number) {
+    @if (unit($font-size) != "px") {
+      @error "`#{$font-size}` needs to be a pixel value.";
+    }
+  } @else {
+    @error "`#{$font-size}` needs to be a number.";
+  }
+
+  font-size: ($font-size / $base-font-size) * 1rem;
+
+  @if ($line-height == "auto") {
+
+    line-height: ceil($font-size / $base-line-height) * ($base-line-height / $font-size);
+  }
+
+  @else {
+
+    @if (type-of($line-height) == number or $line-height == "inherit" or $line-height == "normal") {
+      line-height: $line-height;
+    }
+
+    @else if ($line-height != 'none' and $line-height != false) {
+      @error "D’oh! `#{$line-height}` is not a valid value for `$line-height`."
+    }
+
+  }
+
+}

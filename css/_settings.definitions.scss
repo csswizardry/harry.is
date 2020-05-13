@@ -3,3 +3,15 @@
    ========================================================================== */
 
 $color-brand: #f43059;
+$color-text: #333;
+$color-bg: #f9f9f9;
+$base-font-size: 16px;
+$base-ratio: 1.5;
+$base-line-height: $base-font-size * $base-ratio;
+$base-radius: 4px;
+
+$unit:              $base-ratio * 1rem;
+$unit-tiny:  0.25 * $base-ratio * 1rem;
+$unit-small: 0.5  * $base-ratio * 1rem;
+$unit-large: 2    * $base-ratio * 1rem;
+$unit-huge:  4    * $base-ratio * 1rem;

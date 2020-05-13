@@ -6,3 +6,27 @@ h1, h2, h3, h4, h5, h6 {
   font-family: Montserrat, sans-serif;
   font-weight: 900;
 }
+
+h1 {
+  @include font-size(48px);
+}
+
+h2 {
+  @include font-size(32px);
+}
+
+h2, h3, h4, h5, h6 {
+  letter-spacing: 0.025em;
+}
+
+h3 {
+  @include font-size(24px);
+}
+
+h4 {
+  @include font-size(18px);
+}
+
+h5, h6 {
+  @include font-size(16px);
+}

@@ -1,11 +1,10 @@
 /* ==========================================================================
-   #TYPOGRAPHY
+   #LOZENGE
    ========================================================================== */
 
-p:first-of-type {
-  @include font-size(18px);
-}
-
-b, strong {
-  font-weight: 700;
+.c-lozenge {
+  display: inline-block;
+  background-color: $color-brand;
+  color: #f9f9f9;
+  padding: 1ch;
 }

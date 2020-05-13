@@ -5,10 +5,23 @@
 a,
 a:visited {
   color: var(--color-brand);
-  text-decoration: none;
+
+  /**
+   * All links and heading-links should never be underlined, except as below.
+   */
+  &, h1 &, h2 &, h3 &, h4 &, h5 &, h6 & {
+    text-decoration: none;
+  }
 
   &:hover,
   &:focus {
+    text-decoration: underline;
+  }
+
+  /**
+   * On touchscreen devices, let’s make it more obvious what is a link.
+   */
+  @media (pointer: coarse) {
     text-decoration: underline;
   }
 

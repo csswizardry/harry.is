@@ -1,11 +1,15 @@
 /* ==========================================================================
-   #TYPOGRAPHY
+   #LSITS
    ========================================================================== */
 
-p:first-of-type {
-  @include font-size(18px);
+ul, ol, dd {
+  margin-left: $unit-large;
 }
 
-b, strong {
-  font-weight: 700;
+ul, ol {
+
+  li > & {
+    margin-bottom: 0;
+  }
+
 }
