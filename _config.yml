@@ -8,3 +8,4 @@ excerpt_separator: <!--more-->
 markdown: kramdown
 permalink: /:categories/:title/
 paginate: 10
+future: true
