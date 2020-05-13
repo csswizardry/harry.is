@@ -24,16 +24,6 @@
 
 }
 
-.c-card--sponsored {
-  background-color: $color-brand;
-  border-color: #333;
-
-  &, a {
-    color: $color-bg;
-  }
-
-}
-
 .c-card:nth-of-type(odd) {
   border-left-width: $unit-small;
   padding-left: $unit-small;
@@ -49,7 +39,7 @@
   @include font-size(14px);
   color: #999;
 
-  .c-card--sponsored & {
+  .c-card--highlight & {
     color: rgba(255, 255, 255, 0.8);
   }
 
@@ -96,3 +86,22 @@
     left:   0;
     z-index: 1;
   }
+
+
+
+
+
+/* Special Card Types
+ *
+ * Highlighted cards are effectively inverted.
+   ========================================================================== */
+
+.c-card--highlight {
+  background-color: $color-brand;
+  border-color: $color-brand;
+
+  &, a {
+    color: $color-bg;
+  }
+
+}
