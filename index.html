@@ -6,7 +6,7 @@ layout: default
 
 <ul class="c-card-list">
   {% for post in site.posts %}
-  <li class=c-card>
+  <li class="c-card {% if post.tags contains 'sponsored' %} c-card--sponsored {% endif %}">
 
     <p class="c-card__meta"><time datetime="{{ post.date | date: "%Y-%m-%d" }}">{{
       post.date | date: "%-d %B, %Y" }}</time>, filed in <a href="/{{

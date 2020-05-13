@@ -24,6 +24,16 @@
 
 }
 
+.c-card--sponsored {
+  background-color: $color-brand;
+  border-color: #333;
+
+  &, a {
+    color: $color-bg;
+  }
+
+}
+
 .c-card:nth-of-type(odd) {
   border-left-width: $unit-small;
   padding-left: $unit-small;
@@ -38,6 +48,11 @@
 .c-card__meta {
   @include font-size(14px);
   color: #999;
+
+  .c-card--sponsored & {
+    color: rgba(255, 255, 255, 0.8);
+  }
+
 }
 
   .c-card__title {
