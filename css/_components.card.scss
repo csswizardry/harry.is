@@ -14,6 +14,11 @@
   position: relative;
   border-radius: 4px;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+
+  > p:last-of-type {
+    margin-bottom: 0;
+  }
+
 }
 
 .c-card:nth-of-type(odd) {
