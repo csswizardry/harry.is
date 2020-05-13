@@ -1,10 +1,10 @@
 <h1>
   {% include logotype.html %}
-  <span class="c-lozenge">{{ page.title }}</span>
+  <span class="c-lozenge" style="">{{ page.title }}</span>
 </h1>
 
-<ul>
+<ul class="c-card-list">
   {% for post in site.categories[page.category] %}
-    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% include card.html %}
   {% endfor %}
 </ul>

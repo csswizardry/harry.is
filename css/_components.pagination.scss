@@ -1,0 +1,45 @@
+/* ==========================================================================
+   #PAGINATION
+   ========================================================================== */
+
+.c-pagination {
+  display: flex;
+}
+
+  .c-pagination__item {
+    flex-grow: 1;
+    flex-basis: 0;
+    background-color: $color-brand;
+    padding: $unit-small;
+
+    &#{&} {
+      color: $color-bg
+    }
+
+    &::before,
+    &::after {
+      @include font-size(12px);
+      letter-spacing: 1px;
+      display: block;
+      text-transform: uppercase;
+      color: rgba(255, 255, 255, 0.8)
+    }
+
+  }
+
+  .c-pagination__prev {
+
+    &::before {
+      content: "Before:"
+    }
+
+  }
+
+  .c-pagination__next {
+    text-align: right;
+
+    &::before {
+      content: "Up Next:"
+    }
+
+  }

@@ -2,10 +2,21 @@
    #LOZENGE
    ========================================================================== */
 
+/**
+ * 1. In instances where the lozenge sits on a second line, let’s tuck it under
+ *    the descenders of the line above. It only works with not-links, but it
+ *    looks nice.
+ */
+
 .c-lozenge {
   display: inline-block;
   background-color: $color-brand;
   padding: $unit-small;
+
+  &:not(a) {
+    position: relative; /* [1] */
+    z-index: -1; /* [1] */
+}
 
   &#{&} {
     color: $color-bg;

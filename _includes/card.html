@@ -1,0 +1,16 @@
+<li class="c-card {% if post.tags contains 'highlight' %} c-card--highlight {% endif %}">
+
+  <p class="c-card__meta"><time datetime="{{ post.date | date: "%Y-%m-%d" }}">{{
+    post.date | date: "%-d %B, %Y" }}</time>, filed in <a href="/{{
+    post.categories }}">{{ post.categories }}</a>, and tagged with {% for tag
+  in post.tags %} <a href="/tag/{{ tag }}">{{ tag }}</a> {% endfor %} </p>
+
+  <img src="{{ post.thumb }}" alt="" class="c-card__img" width="100" height="100" />
+
+  <h3 class="c-card__title"><a href="{{ post.url }}">{{ post.title }}</a></h3>
+
+  {{ post.excerpt }}
+
+  <a href="{{ post.url }}" class="c-card__cta"><span class="u-visually-hidden">Read more…</span></a>
+
+</li>
