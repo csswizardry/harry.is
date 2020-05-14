@@ -4,4 +4,29 @@
 
 .c-site-nav {
   margin-bottom: 0;
+  font-weight: 700;
+  text-align: right;
+  overflow: hidden;
 }
+
+  .c-site-nav__logo {
+    float: left;
+  }
+
+  .c-site-nav__link {
+    padding: $unit (0.5 * $unit);
+    display: inline-block;
+
+    &#{&} {
+      color: $color-text;
+    }
+
+    &:first-child {
+      padding-left: 0;
+    }
+
+    &:last-child {
+      padding-right: 0;
+    }
+
+  }

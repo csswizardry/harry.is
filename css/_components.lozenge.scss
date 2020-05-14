@@ -12,6 +12,7 @@
   display: inline-block;
   background-color: $color-brand;
   padding: $unit-small;
+  transform: rotate(random(4) - 2 + deg);
 
   &:not(a) {
     position: relative; /* [1] */
