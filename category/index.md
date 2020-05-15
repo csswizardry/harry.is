@@ -1,6 +1,6 @@
 ---
-layout: default
 title: "All Categories"
+layout: default
 ---
 
 # {{ page.title }}

@@ -1,6 +1,6 @@
 ---
-layout: default
 title: "All Tags"
+layout: default
 ---
 
 <h1>{{ page.title }}</h1>
