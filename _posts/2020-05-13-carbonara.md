@@ -1,5 +1,5 @@
 ---
-title: "Spaghetti Carbonara, the Traditional Way"
+title: "Spaghetti alla Carbonara, the Traditional Way"
 date: 2020-05-13 03:19:15
 categories: cooking
 tags: recipe pasta italian
