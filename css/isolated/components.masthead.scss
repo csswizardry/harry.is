@@ -9,6 +9,7 @@
   padding-top: 56.25%;
   background-size: cover;
   background-position: center center;
+  //background-attachment: fixed;
 
   @include mq($from: lg) {
     padding-top: 0;

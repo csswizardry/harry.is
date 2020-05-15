@@ -8,7 +8,8 @@
   @include mq($from: md) {
     position: relative;
     z-index: 1;
-    background-color: #f9f9f9;
+    background-color: $color-bg;
+    //background-image: linear-gradient(darken($color-bg, 5%), $color-bg 24 * $unit);
     margin-top: -12 * $unit;
   }
 
