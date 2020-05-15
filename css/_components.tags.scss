@@ -1,0 +1,46 @@
+/* ==========================================================================
+   #TAGS
+   ========================================================================== */
+
+.c-tag {
+  display: inline-block;
+  @include font-size(12px);
+  background-color: $color-text;
+  padding-right: $unit-tiny;
+  position: relative;
+  margin-left: calc(#{$unit-tiny} + 1ch);
+  border-top-right-radius: $base-radius;
+  border-bottom-right-radius: $base-radius;
+
+  &#{&} {
+    color: $color-bg;
+  }
+
+  &:hover,
+  &:focus {
+    background-color: $color-brand;
+
+    &::before {
+      border-right-color: $color-brand;
+    }
+
+  }
+
+  &::before {
+    content: "";
+    border: $unit-small solid transparent;
+    border-right-color: $color-text;
+    position: absolute;
+    top: 0;
+    right: 100%;
+  }
+
+    $primes: 1, 2, 3, 5, 7, 11, 13, 17, 19, 23, 29;
+
+    @each $prime in $primes {
+      &:nth-of-type(#{$prime}n) {
+        transform: rotate(random(10) - 5 + deg);
+      }
+    }
+
+}

@@ -4,7 +4,7 @@
 
 .s-prose {
 
-  p:first-of-type {
+  > p:first-of-type {
     @include font-size(18px);
   }
 
@@ -27,14 +27,18 @@
         font-family: Montserrat;
       }
 
-      $primes: 1, 2, 3, 5, 7, 11, 13, 17, 19, 23, 29;
+    }
 
-      @each $prime in $primes {
-        &:nth-of-type(#{$prime}n) {
-          &::before { transform: rotate(random(30) - 15 + deg); }
-        }
+  }
+
+  li {
+
+    $primes: 1, 2, 3, 5, 7, 11, 13, 17, 19, 23, 29;
+
+    @each $prime in $primes {
+      &:nth-of-type(#{$prime}n) {
+        &::before { transform: rotate(random(30) - 15 + deg); }
       }
-
     }
 
   }

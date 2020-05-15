@@ -5,8 +5,6 @@ permalink: /styleguide/
 main: /img/content/me.jpg
 ---
 
-# Heading Level One
-
 Pellentesque [habitant morbi tristique](#0) senectus et netus et malesuada fames
 ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor
 sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies
@@ -46,7 +44,13 @@ mi vitae est. Mauris placerat eleifend.
 * Lorem ipsum dolor sit amet.
 * Mauris placerat eleifend.
   0. Donec eu libero.
+  0. Donec eu libero.
+  0. Donec eu libero.
+  0. Donec eu libero.
+  0. Donec eu libero.
 * Vestibulum tortor quam.
+  0. Donec eu libero.
+  0. Donec eu libero.
 
 Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac
 turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor
@@ -60,7 +64,23 @@ turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor
 sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies
 mi vitae est. Mauris placerat eleifend.
 
+<nav class="c-tags-list">
+  <a href="#0" class="c-tag">Recipe</a>
+  <a href="#0" class="c-tag">Steak</a>
+  <a href="#0" class="c-tag">Meat</a>
+</nav>
+
 #### Heading Level Four
+
+Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac
+turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor
+sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies
+mi vitae est. Mauris placerat eleifend.
+
+> Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac
+> turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor
+> sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies
+> mi vitae est. Mauris placerat eleifend leo.
 
 Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac
 turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor
