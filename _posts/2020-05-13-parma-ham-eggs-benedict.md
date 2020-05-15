@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: masthead
 title: "Parma Ham Eggs Benedict"
 date: 2020-05-13 20:30:15
 categories: cooking

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: masthead
 title: "Spaghetti Carbonara, the Traditional Way"
 date: 2020-05-13 03:19:15
 categories: cooking

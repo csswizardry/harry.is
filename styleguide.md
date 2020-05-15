@@ -1,7 +1,8 @@
 ---
-layout: default
+layout: masthead
 title: Styleguide
 permalink: /styleguide/
+main: /img/content/me.jpg
 ---
 
 # Heading Level One

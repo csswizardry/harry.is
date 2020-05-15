@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: masthead
 title: About Me
 main: /img/content/me.jpg
 ---

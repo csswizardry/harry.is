@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: masthead
 title: "Video: How to Reverse-Sear Ribeye"
 date: 2020-05-13 20:30:15
 categories: teaching
