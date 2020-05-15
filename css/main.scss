@@ -31,26 +31,8 @@
 @import "components.lozenge";
 @import "components.site-header";
 @import "components.site-nav";
-@import "components.pagination";
-@import "isolated/components.masthead";
+@import "components.content";
 
 @import "scope.prose";
 
 @import "utilities.show-hide";
-
-.c-content {
-  padding-top: 24px;
-
-  @include mq($from: md) {
-    position: relative;
-    z-index: 1;
-    background-color: #f9f9f9;
-    margin-top: -240px;
-  }
-
-  @include mq($from: md) {
-    margin-top: -12 * $unit;
-  }
-
-
-}

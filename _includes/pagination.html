@@ -1,3 +1,8 @@
+<style>
+  {% include css/components.pagination.css %}
+</style>
+
+{% if page.previous.url or page.next.url %}
 <nav class="c-pagination">
   {% if page.previous.url %}
     <a href="{{page.previous.url}}" class="c-pagination__item  c-pagination__prev">{{page.previous.title}}</a>
@@ -6,3 +11,4 @@
     <a href="{{page.next.url}}" class="c-pagination__item c-pagination__next">{{page.next.title}}</a>
   {% endif %}
 </nav>
+{% endif %}
