@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About Me
+main: /img/content/me.jpg
 ---
 
 Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac

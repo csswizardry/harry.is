@@ -5,7 +5,7 @@ date: 2020-05-13 20:30:15
 categories: teaching
 tags: steak recipe talk video
 thumb: /img/content/2020/05/jamsteak-thumb.jpg
-
+main: /img/content/2020/05/jamsteak-main.jpg
 ---
 
 Anyone who’s done any reading about how best to cook steak has no doubt heard of

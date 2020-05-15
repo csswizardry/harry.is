@@ -5,7 +5,7 @@
     post.categories }}">{{ post.categories }}</a>, and tagged with {% for tag
   in post.tags %} <a href="/tag/{{ tag }}">{{ tag }}</a> {% endfor %} </p>
 
-  <img src="{{ post.thumb }}" alt="" class="c-card__img" width="120" height="120"
+  <img src="{{ post.thumb }}" alt="" class="c-card__img" width="96" height="96"
     {% if forloop.first != true %}
       loading="lazy"
     {% endif %}

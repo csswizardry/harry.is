@@ -5,6 +5,7 @@ date: 2020-05-13 03:19:15
 categories: cooking
 tags: recipe pasta italian
 thumb: /img/content/2020/05/carbonara-thumb.jpg
+main: /img/content/2020/05/carbonara-main.jpg
 ---
 
 I’ve only recently become aware of just how delicious and astoundingly simple
