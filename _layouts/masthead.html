@@ -2,28 +2,25 @@
 layout: default
 ---
 
+</div><!-- Close page flow -->
+
+<!-- Full-bleed masthead -->
+<div class="c-masthead" style="background-image: url({{ page.main }}), url('data:image/jpeg;base64,{{ page.placeholder }}');">
 </div>
 
-<div class="c-masthead" style="max-height: 720px; overflow: hidden;">
-  <img src="{{ page.main }}" alt="ALT" style="width: 100%" />
-</div>
+<!-- Start page flow -->
+<div class="o-wrapper  s-prose  c-content">
 
-<div class="o-wrapper" style="position: relative; z-index: 1; background-color:
-  #f9f9f9; margin-top: -240px; padding-top: 24px;">
 
-<h1>{{ page.title }}</h1>
+  <h1>{{ page.title }}</h1>
 
-{% if  page.categories  %}
-<p>
-  <a href="/{{ page.categories }}/" class="c-lozenge">{{ page.categories }}</a>
-</p>
-{% endif %}
+  {% if  page.categories  %}
+  <p>
+    <a href="/{{ page.categories }}/" class="c-lozenge">{{ page.categories }}</a>
+  </p>
+  {% endif %}
 
-<div class="s-prose">
-
-  {{ content }}
-
-</div>
+    {{ content }}
 
 {% include pagination.html %}
 

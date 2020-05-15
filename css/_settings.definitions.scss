@@ -10,6 +10,13 @@ $base-ratio: 1.5;
 $base-line-height: $base-font-size * $base-ratio;
 $base-radius: 4px;
 
+$mq-breakpoints: (
+  sm: 480px,
+  md: 720px,
+  lg: 1024px,
+  xl: 1280px
+);
+
 $unit:              $base-ratio * 1rem;
 $unit-tiny:  0.25 * $base-ratio * 1rem;
 $unit-small: 0.5  * $base-ratio * 1rem;
