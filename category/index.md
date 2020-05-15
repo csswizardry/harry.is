@@ -3,10 +3,16 @@ title: "All Categories"
 layout: default
 ---
 
-# {{ page.title }}
+<h1>
+  {% include logotype.html %} is writing about
 
-<ul>
   {% for category in site.categories %}
-    <li><a href="/{{ category[0] }}/">{{ category[0] }}</a></li>
+    {% if forloop.last == true %}
+      {% assign separator = '.' %}
+    {% else %}
+      {% assign separator = ',' %}
+    {% endif %}
+      <a href="/{{ category[0] }}/" class="c-lozenge">{{ category[0] }}</a>{{ separator }}
   {% endfor %}
-</ul>
+
+</h1>
