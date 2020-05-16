@@ -15,12 +15,14 @@
 
     > li {
       counter-increment: ol;
+      padding-left: $unit-large;
+      text-indent: -$unit-large;
 
       &::before {
         content: counter(ol) ".";
         display: inline-block;
-        width: 36px;
-        margin-right: 12px;
+        width: 1.5 * $unit;
+        margin-right: 0.5 * $unit;
         text-align: right;
         color: $color-brand;
         font-weight: 900;
