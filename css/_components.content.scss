@@ -13,5 +13,14 @@
     margin-top: -12 * $unit;
   }
 
-
 }
+
+  .c-content__meta {
+    display: block;
+    color: #666;
+  }
+
+  .c-content__footer {
+    border-bottom: $unit solid;
+    margin-bottom: $unit;
+  }

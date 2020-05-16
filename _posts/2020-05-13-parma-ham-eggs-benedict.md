@@ -2,26 +2,26 @@
 title: "Parma Ham Eggs Benedict"
 date: 2020-05-13 20:30:15
 categories: cooking
-tags: breakfast recipe eggs
+tags: breakfast recipe eggs hollandaise
 thumb: /img/content/2020/05/eggs-benny-thumb.jpg
 main: /img/content/2020/05/eggs-benny-main.jpg
 placeholder: '/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAYGBgYHBgcICAcKCwoLCg8ODAwODxYQERAREBYiFRkVFRkVIh4kHhweJB42KiYmKjY+NDI0PkxERExfWl98fKcBBgYGBgcGBwgIBwoLCgsKDw4MDA4PFhAREBEQFiIVGRUVGRUiHiQeHB4kHjYqJiYqNj40MjQ+TERETF9aX3x8p//CABEIAAkAEAMBIgACEQEDEQH/xAAWAAEBAQAAAAAAAAAAAAAAAAAGAwX/2gAIAQEAAAAAz7Ozv//EABQBAQAAAAAAAAAAAAAAAAAAAAX/2gAIAQIQAAAAE//EABQBAQAAAAAAAAAAAAAAAAAAAAX/2gAIAQMQAAAAY//EACQQAAICAQMCBwAAAAAAAAAAAAIEAQMABQYHERQ1RGFicnPC/9oACAEBAAE/AHdk7AVYuXYdtXcCIgQZYmqDH9RgafsVfU17ULKganoAVrs93bcfuAI6RHrnIfgi3zPOMPP/AFFn/8QAHBEAAQQDAQAAAAAAAAAAAAAAAgEDERIAISJx/9oACAECAQE/AFcs2BrbkYi2i9z/xAAaEQACAgMAAAAAAAAAAAAAAAABIQMRADFx/9oACAEDAQE/ABFUhYZsLXM//9k='
 layout: masthead
+type: post
 ---
 
 Eggs Benedict has always been a favourite of mine, but I’ve only recently
-begun making it myself. Some neat tricks and little hacks turn a series of very
+begun making it at home. Some neat tricks and little hacks turn a series of very
 simple ingredients into a delicious, decadent brunch.
 
 <!--more-->
 
 <figure>
-  <img src="/img/content/2020/05/eggs-benny-ingredients.jpg" alt="">
-  <figcaption>This really is all you’re going to need!</figcaption>
+  <img src="/img/content/2020/05/eggs-benny-plated.jpg" alt="" />
 </figure>
 
 Traditionally, Eggs Benedict would be served with bacon and on an English
-muffin, yet I find that the salty, umami, rich flavour of Parma ham and the
+muffin, but I find that the salty, umami, rich flavour of Parma ham and the
 buttery, sweet flavour of brioche, contrasts incredibly with the tang of the
 Hollandaise and the richness off the egg yolk.
 
@@ -31,6 +31,10 @@ a distinct and almost cheesy funk in the meat.
 
 ## You Will Need
 
+<figure>
+  <img src="/img/content/2020/05/eggs-benny-ingredients.jpg" alt="">
+</figure>
+
 * 1× brioche bun
 * 2× slices of Parma Ham
 * 3× very fresh eggs
@@ -39,9 +43,9 @@ a distinct and almost cheesy funk in the meat.
 
 ## Hollandaise Sauce
 
-If you’ve ever tried to make Hollandaise sauce before, I’m sure you’ve run into
-trouble and frustration at least once before. Bains-marie, whisks, delicate
-balancing acts with heat, and it’s very easy to get wrong. Way too stressful
+If you’ve ever tried to make Hollandaise sauce, I’m sure you’ve run into trouble
+and frustration at least once before. Bains-marie, whisks, delicate balancing
+acts with heat, and it soon becomes very easy to get wrong. Way too stressful
 when you’re trying to make breakfast. Sacrilegious as it may be, I use a far
 simpler method that yields the same outcomes. Work smart, not hard.
 
@@ -51,13 +55,12 @@ simpler method that yields the same outcomes. Work smart, not hard.
 water baths.</figcaption>
 </figure>
 
-For one serving, gently melt the butter in a milk pan. Ensure that it is fully
-melted and hot, but make sure it doesn’t burn. Avoid stirring or otherwise
-agitating the butter, as we want to try and separate the white solids that will
-sink from the fat that will float—it’s this clear fat that we need, so skim off
-any floating solids.
+Gently melt the butter in a milk pan. Ensure that it is fully melted and hot,
+but make sure it doesn’t burn. Avoid stirring or otherwise agitating the butter,
+as we want to try and separate the white solids that will sink from the fat that
+will float—it’s this clear fat that we need, so skim off any floating solids.
 
-Meanwhile add the yolk of one egg to a small food processor or blender. Season
+Meanwhile, add the yolk of one egg to a small food processor or blender. Season
 lightly and once the butter is ready, gently pour a splash at a time into the
 blender and briskly blitz. It’s vital that you don’t flood the yolk, so add the
 butter gradually. The heat of the butter will cook the mixture, but ensure it’s
@@ -99,6 +102,11 @@ fresh. Grade A eggs have thicker whites which better support the yolk, and as
 eggs age, the whites will thin. Ergo, fresh, grade A eggs will have whites much
 better suited to poaching.
 
+<figure>
+<img src="/img/content/2020/05/eggs-benny-ramekins.jpg" alt="">
+<figcaption>Crack the eggs into ramekins to help transfer them to the pan more gently.</figcaption>
+</figure>
+
 Fill a wide pan about 5–7cm deep with water and slowly bring to a simmer. It’s
 imperative that you don’t place eggs into boiling water as two things will
 happen:
@@ -106,3 +114,61 @@ happen:
 1. **The eggs will overcook.** 100ºC is far too hot for eggs.
 2. **The whites will tear apart.** The turbulence caused by boiling is likely to
    ruin the eggs.
+
+When the water is beginning to simmer, bubbles appear on the bottom of the pan.
+Put your Parma ham in the oven now and prepare to poach!
+
+<figure>
+<img src="/img/content/2020/05/eggs-benny-simmer.jpg" alt="">
+<figcaption>When these bubbles appear, you’re good to go.</figcaption>
+</figure>
+
+If your eggs are fresh enough, you won’t need to use any of the vinegar or
+whirlpool hacks you may have read about. Simply lower the ramekin into the
+water—actually into the water—and once the water level reaches the lip of the
+bowl, smoothly but swiftly tip out the egg into the water. It should be
+a smooth, seamless motion.
+
+<figure>
+<img src="/img/content/2020/05/eggs-benny-progress.jpg" alt="">
+<figcaption>A wide, shallow pan is the best option for poaching eggs.</figcaption>
+</figure>
+
+You shouldn’t need a timer as it’s quite easy to see the progress, but for
+reference you’re aiming at about 3–4 minutes.
+
+<img src="/img/content/2020/05/eggs-benny-top.jpg" alt="" class="c-image-left">
+
+As they’re cooking, begin lightly toasting your brioche. Once the eggs are done,
+fish them out with a slotted spoon and rest on a paper towel while you trim any
+wispy, unsightly bits of egg white.
+
+Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac
+turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor
+sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies
+mi vitae est. Mauris placerat eleifend leo.
+
+Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac
+turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor
+sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies
+mi vitae est. Mauris placerat eleifend leo.
+
+Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac
+turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor
+sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies
+mi vitae est. Mauris placerat eleifend leo.
+
+Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac
+turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor
+sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies
+mi vitae est. Mauris placerat eleifend leo.
+
+Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac
+turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor
+sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies
+mi vitae est. Mauris placerat eleifend leo.
+
+Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac
+turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor
+sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies
+mi vitae est. Mauris placerat eleifend leo.

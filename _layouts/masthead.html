@@ -15,17 +15,36 @@ layout: default
 <!-- Start page flow -->
 <div class="o-wrapper  s-prose  c-content">
 
+  {% if page.type == 'post' %}
+
+    <header class="c-content__meta">
+      <time datetime="{{ page.date | date: "%Y-%m-%d" }}"  itemprop="datePublished">{{ page.date | date: "%-d %B, %Y" }}</time>
+      in
+      {% if  page.categories  %}
+        <a href="/{{ page.categories }}/">{{ page.categories }}</a>
+      {% endif %}
+    </header>
+
+  {% endif %}
 
   <h1>{{ page.title }}</h1>
 
-  {% if  page.categories  %}
-  <p>
-    <a href="/{{ page.categories }}/" class="c-lozenge">{{ page.categories }}</a>
-  </p>
-  {% endif %}
+  {{ content }}
 
-    {{ content }}
+  {% if page.type == 'post' %}
 
-{% include pagination.html %}
+    <footer class="c-content__footer">
 
-{% include related-posts.html %}
+      <nav class="c-tag-list">
+        {% for tag in page.tags %}
+          <a href="/{{ tag }}/" class="c-tag">{{ tag }}</a>
+        {% endfor %}
+      </nav>
+
+    </footer>
+
+    {% endif %}
+
+  {% include pagination.html %}
+
+  {% include related-posts.html %}

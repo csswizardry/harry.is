@@ -32,3 +32,27 @@
   }
 
 }
+
+@mixin font-display() {
+  font-family: Montserrat, sans-serif;
+}
+
+@mixin font-body() {
+  font-family: Roboto, sans-serif;
+}
+
+@mixin font-ui() {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+}
+
+@mixin rotate($limit: 5) {
+
+  $primes: 1, 2, 3, 5, 7, 11, 13, 17, 19, 23, 29;
+
+  @each $prime in $primes {
+    &:nth-of-type(#{$prime}n) {
+      transform: rotate(random(2 * $limit) - $limit + deg);
+    }
+  }
+
+}

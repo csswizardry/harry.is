@@ -9,6 +9,7 @@
  */
 
 .c-lozenge {
+  @include rotate();
   display: inline-block;
   background-color: $color-brand;
   padding: $unit-small;
@@ -21,12 +22,6 @@
 
   &#{&} {
     color: $color-bg;
-  }
-
-  $primes: 1, 2, 3, 5, 7, 11, 13, 17, 19, 23, 29;
-
-  @each $prime in $primes {
-    &:nth-of-type(#{$prime}n) { transform: rotate(random(10) - 5 + deg); }
   }
 
 }

@@ -3,14 +3,16 @@
    ========================================================================== */
 
 .c-tag {
-  display: inline-block;
+  @include rotate();
   @include font-size(12px);
+  display: inline-block;
   background-color: $color-text;
   padding-right: $unit-tiny;
   position: relative;
   margin-left: calc(#{$unit-tiny} + 1ch);
   border-top-right-radius: $base-radius;
   border-bottom-right-radius: $base-radius;
+  transition: 0.2s;
 
   &#{&} {
     color: $color-bg;
@@ -19,6 +21,7 @@
   &:hover,
   &:focus {
     background-color: $color-brand;
+    text-decoration: none;
 
     &::before {
       border-right-color: $color-brand;
@@ -33,14 +36,7 @@
     position: absolute;
     top: 0;
     right: 100%;
+    transition: 0.2s;
   }
-
-    $primes: 1, 2, 3, 5, 7, 11, 13, 17, 19, 23, 29;
-
-    @each $prime in $primes {
-      &:nth-of-type(#{$prime}n) {
-        transform: rotate(random(10) - 5 + deg);
-      }
-    }
 
 }

@@ -19,6 +19,7 @@
       text-indent: -$unit-large;
 
       &::before {
+        @include font-display();
         content: counter(ol) ".";
         display: inline-block;
         width: 1.5 * $unit;
@@ -26,7 +27,6 @@
         text-align: right;
         color: $color-brand;
         font-weight: 900;
-        font-family: Montserrat;
       }
 
     }
