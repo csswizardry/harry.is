@@ -6,6 +6,11 @@
 
 .c-pagination {
   display: flex;
+  border: 0 solid $color-brand;
+  border-top-width: 1px;
+  border-bottom-width: 1px;
+  padding-top: 11px;
+  padding-bottom: 11px;
 }
 
   .c-pagination__item {

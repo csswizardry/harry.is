@@ -33,6 +33,7 @@ a distinct and almost cheesy funk in the meat.
 
 <figure>
   <img src="/img/content/2020/05/eggs-benny-ingredients.jpg" alt="">
+  <figcaption>This really is all you’ll need.</figcaption>
 </figure>
 
 * 1× brioche bun
@@ -134,41 +135,18 @@ a smooth, seamless motion.
 <figcaption>A wide, shallow pan is the best option for poaching eggs.</figcaption>
 </figure>
 
+As they’re cooking, begin lightly toasting your brioche.
+
 You shouldn’t need a timer as it’s quite easy to see the progress, but for
-reference you’re aiming at about 3–4 minutes.
+reference you’re aiming at about 3–4 minutes. Once the eggs are done, fish them
+out with a slotted spoon and rest on a paper towel while you trim any wispy,
+unsightly bits of egg white.
 
-<img src="/img/content/2020/05/eggs-benny-top.jpg" alt="" class="c-image-left">
+That’s it! Everything is done. Stack your brioche, Parma ham, poached eggs, and
+then drizzle with Hollandaise. Serve with coarsely ground black pepper and
+watercress (which nobody ever eats, but this is a dish that can really use the
+greenery).
 
-As they’re cooking, begin lightly toasting your brioche. Once the eggs are done,
-fish them out with a slotted spoon and rest on a paper towel while you trim any
-wispy, unsightly bits of egg white.
-
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac
-turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor
-sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies
-mi vitae est. Mauris placerat eleifend leo.
-
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac
-turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor
-sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies
-mi vitae est. Mauris placerat eleifend leo.
-
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac
-turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor
-sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies
-mi vitae est. Mauris placerat eleifend leo.
-
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac
-turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor
-sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies
-mi vitae est. Mauris placerat eleifend leo.
-
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac
-turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor
-sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies
-mi vitae est. Mauris placerat eleifend leo.
-
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac
-turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor
-sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies
-mi vitae est. Mauris placerat eleifend leo.
+<figure>
+<img src="/img/content/2020/05/eggs-benny-main.jpg" alt="">
+</figure>
