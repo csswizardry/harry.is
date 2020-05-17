@@ -12,8 +12,8 @@ type: post
 
 While this breakfast dish might appear to have a lot of ingredients, most of
 them are readily available and actually make for an incredibly simple and
-straightforward recipe. Plus you can safely leave out eggs and feta to make this
-already-healthy brunch favourite vegan-friendly.
+straightforward recipe. Plus you can safely leave out eggs, feta, and butter to
+make this already-healthy brunch favourite vegan-friendly.
 
 <!--more-->
 
