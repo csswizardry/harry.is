@@ -10,9 +10,10 @@ layout: masthead
 type: post
 ---
 
-Eggs Benedict has always been a favourite of mine, but I’ve only recently
-begun making it at home. Some neat tricks and little hacks turn a series of very
-simple ingredients into a delicious, decadent brunch.
+Eggs Benedict has always been a breakfast favourite of mine, but I’ve only
+recently begun making it at home. Some neat tricks and little hacks turn
+a series of very simple ingredients into a delicious, decadent brunch—it’ll come
+together quicker than you think.
 
 <!--more-->
 
