@@ -24,10 +24,30 @@
   </script>
   <script src="https://www.google-analytics.com/analytics.js" async></script>
 
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,900;1,900&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&display=swap" media="print" onload="this.media='all'" />
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,900;1,900&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&display=swap"
+        media="print" onload="this.media='all'" />
+
   <style>
     {% include css/main.min.css %}
   </style>
+
+{% if page.main %}
+<meta name="twitter:card" content="summary_large_image">
+{% else %}
+<meta name="twitter:card" content="summary">
+{% endif %}
+<meta name="twitter:site" content="@csswizardry">
+<meta name="twitter:domain" content="harry.is">
+<meta name="twitter:creator" content="@csswizardry">
+<meta name="twitter:title" content="{{ page.title }} – harry.is">
+{% if page.main %}
+  <meta name="twitter:image" content="https://harry.is{{ page.main }}">
+{% else %}
+  <meta name="twitter:image" content="https://harry.is/icon.png">
+{% endif %}
+{% if page.meta %}
+    <meta name="twitter:description" content="{{ page.meta }}">
+{% endif %}
 
   <link rel="apple-touch-icon-precomposed" href="/icon.png" />
 </head>
@@ -51,20 +71,8 @@
     </nav>
 
   </header>
-  <script>
-// get the sticky element
-const stickyElm = document.getElementById('js-header')
 
-const observer = new IntersectionObserver(
-  ([e]) => e.target.classList.toggle('is-fixed', e.intersectionRatio < 1),
-  {threshold: [1]}
-);
-
-observer.observe(stickyElm)
-
-  </script>
-
-  <div class="o-wrapper  FOO">
+  <div class="o-wrapper">
 
     {{ content }}
 

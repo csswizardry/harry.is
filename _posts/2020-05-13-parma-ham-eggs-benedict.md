@@ -33,7 +33,7 @@ a distinct and almost cheesy funk in the meat.
 ## You Will Need
 
 <figure>
-  <img src="/img/content/2020/05/eggs-benny-ingredients.jpg" alt="">
+  <img src="/img/content/2020/05/eggs-benny-ingredients.jpg" alt="" loading="lazy" />
   <figcaption>This really is all you’ll need.</figcaption>
 </figure>
 
@@ -52,7 +52,7 @@ when you’re trying to make breakfast. Sacrilegious as it may be, I use a far
 simpler method that yields the same outcomes. Work smart, not hard.
 
 <figure>
-<img src="/img/content/2020/05/eggs-benny-hollandaise.jpg" alt="">
+<img src="/img/content/2020/05/eggs-benny-hollandaise.jpg" alt="" loading="lazy" />
 <figcaption>Making Hollandaise in a food processor is far less stressful than
 water baths.</figcaption>
 </figure>
@@ -71,7 +71,7 @@ desired consistency. Don’t be alarmed if you have butter left over—it’s be
 that way than not having enough.
 
 <figure>
-<img src="/img/content/2020/05/eggs-benny-hollandaise-thickness.jpg" alt="">
+<img src="/img/content/2020/05/eggs-benny-hollandaise-thickness.jpg" alt="" loading="lazy" />
 <figcaption>When at the correct consistency, Hollandaise should cling to the
 back of a spoon.</figcaption>
 </figure>
@@ -87,7 +87,7 @@ Place the tray in the oven just before you add your eggs to the pan in the next
 step. That’s all there is to it.
 
 <figure>
-<img src="/img/content/2020/05/eggs-benny-ham.jpg" alt="">
+<img src="/img/content/2020/05/eggs-benny-ham.jpg" alt="" loading="lazy" />
 <figcaption>We’re just going to lightly cook this to add some more warmth and
 texture to the meal.</figcaption>
 </figure>
@@ -105,7 +105,7 @@ eggs age, the whites will thin. Ergo, fresh, grade A eggs will have whites much
 better suited to poaching.
 
 <figure>
-<img src="/img/content/2020/05/eggs-benny-ramekins.jpg" alt="">
+<img src="/img/content/2020/05/eggs-benny-ramekins.jpg" alt="" loading="lazy" />
 <figcaption>Crack the eggs into ramekins to help transfer them to the pan more gently.</figcaption>
 </figure>
 
@@ -121,7 +121,7 @@ When the water is beginning to simmer, bubbles appear on the bottom of the pan.
 Put your Parma ham in the oven now and prepare to poach!
 
 <figure>
-<img src="/img/content/2020/05/eggs-benny-simmer.jpg" alt="">
+<img src="/img/content/2020/05/eggs-benny-simmer.jpg" alt="" loading="lazy" />
 <figcaption>When these bubbles appear, you’re good to go.</figcaption>
 </figure>
 
@@ -132,7 +132,7 @@ bowl, smoothly but swiftly tip out the egg into the water. It should be
 a smooth, seamless motion.
 
 <figure>
-<img src="/img/content/2020/05/eggs-benny-progress.jpg" alt="">
+<img src="/img/content/2020/05/eggs-benny-progress.jpg" alt="" loading="lazy" />
 <figcaption>A wide, shallow pan is the best option for poaching eggs.</figcaption>
 </figure>
 
@@ -149,5 +149,5 @@ watercress (which nobody ever eats, but this is a dish that can really use the
 greenery).
 
 <figure>
-<img src="/img/content/2020/05/eggs-benny-main.jpg" alt="">
+<img src="/img/content/2020/05/eggs-benny-main.jpg" alt="" loading="lazy" />
 </figure>
