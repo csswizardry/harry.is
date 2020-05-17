@@ -23,8 +23,8 @@ together quicker than you think.
 
 Traditionally, Eggs Benedict would be served with bacon and on an English
 muffin, but I find that the salty, umami, rich flavour of Parma ham and the
-buttery, sweet flavour of brioche, contrasts incredibly with the tang of the
-Hollandaise and the richness off the egg yolk.
+buttery, sweet flavour of brioche contrasts incredibly with the tang of the
+Hollandaise and the richness of the egg yolk.
 
 **Fun fact:** The pigs bred for Parma ham are fed on the leftover whey from the
 region’s other famous export, _parmigiano reggiano_. This is why you can detect

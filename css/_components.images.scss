@@ -2,19 +2,22 @@
    #IMAGES
    ========================================================================== */
 
-.c-image-left,
-.c-image-right {
+.c-image {
   margin-bottom: $unit;
   max-width: 50%;
 }
 
-.c-image-left {
+.c-image--small {
+  width: 20 * $unit;
+}
+
+.c-image--left {
   float: left;
   margin-right: $unit;
   margin-left: -$unit;
 }
 
-.c-image-right {
+.c-image--right {
   float: right;
   margin-right: -$unit;
   margin-left: $unit;

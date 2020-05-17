@@ -3,6 +3,24 @@
    ========================================================================== */
 
 .c-site-header {
-  padding-top:    $unit-large;
-  padding-bottom: $unit-large;
+  margin-top:    $unit;
+  margin-bottom: $unit;
+  padding-top:       $unit-small;
+  padding-bottom:    $unit-small;
+  position: sticky;
+  top: 0;
+  z-index: 3;
+  background-color: $color-bg;
+  will-change: transform;
+
+  @supports(backdrop-filter: blur(4px)) {
+    background-color: rgba($color-bg, 0.75);
+    backdrop-filter: blur(4px);
+  }
+
+  @include mq($from: md) {
+    margin-top:    2 * $unit;
+    margin-bottom: 2 * $unit;
+  }
+
 }

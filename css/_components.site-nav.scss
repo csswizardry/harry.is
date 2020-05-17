@@ -14,8 +14,14 @@
   }
 
   .c-site-nav__link {
-    padding: $unit (0.5 * $unit);
+    padding-left: $unit;
+    padding-right: $unit;
+    line-height: $unit-large;
     display: inline-block;
+
+    @include mq($from: md) {
+      line-height: 3 * $unit;
+    }
 
     &#{&} {
       color: $color-text;

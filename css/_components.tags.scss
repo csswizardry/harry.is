@@ -13,6 +13,7 @@
   border-top-right-radius: $base-radius;
   border-bottom-right-radius: $base-radius;
   transition: 0.2s;
+  vertical-align: bottom;
 
   &#{&} {
     color: $color-bg;

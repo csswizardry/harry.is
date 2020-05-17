@@ -6,22 +6,17 @@
 
 .c-pagination {
   display: flex;
+  padding-top:    $unit-small;
+  padding-bottom: $unit-small;
   border: 0 solid $color-brand;
   border-top-width: 1px;
   border-bottom-width: 1px;
-  padding-top: 11px;
-  padding-bottom: 11px;
 }
 
   .c-pagination__item {
     flex-grow: 1;
     flex-basis: 0;
-    background-color: $color-brand;
     padding: $unit-small;
-
-    &#{&} {
-      color: $color-bg
-    }
 
     &::before,
     &::after {
@@ -29,7 +24,7 @@
       letter-spacing: 1px;
       display: block;
       text-transform: uppercase;
-      color: rgba(255, 255, 255, 0.8)
+      font-weight: 700;
     }
 
   }
@@ -37,7 +32,7 @@
   .c-pagination__prev {
 
     &::before {
-      content: "Before:"
+      content: "Previously:"
     }
 
   }

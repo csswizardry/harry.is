@@ -5,9 +5,9 @@
 @import "isolated-core";
 
 .c-site-footer {
-  background-color: #333;
+  background-color: $color-text;
   text-align: center;
-  color: #f9f9f9;
+  color: $color-text;
   padding-top:    $unit-huge;
   padding-bottom: $unit-huge;
 }

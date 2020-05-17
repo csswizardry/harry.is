@@ -6,12 +6,21 @@
   display: inline-block;
 }
 
-  .c-logo__path {
-    fill: #333;
-    transition: 0.2s;
-
-    .c-logo:hover & {
-      fill: $color-brand;
+  .c-logo__img {
+    width: 83px;
+    height: $unit-large;
+    @include mq($from: md) {
+      width: auto;
+      height: auto;
     }
-
   }
+
+    .c-logo__path {
+      fill: #333;
+      transition: 0.2s;
+
+      .c-logo:hover & {
+        fill: $color-brand;
+      }
+
+    }
