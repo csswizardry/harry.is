@@ -1,0 +1,29 @@
+{% if page.main %}
+<meta name="twitter:card" content="summary_large_image">
+{% else %}
+<meta name="twitter:card" content="summary">
+{% endif %}
+<meta property="og:type" content="article" />
+<meta name="twitter:site" content="@csswizardry">
+<meta name="twitter:domain" content="harry.is">
+<meta name="twitter:creator" content="@csswizardry">
+<meta name="twitter:title" content="{{ page.title }} – harry.is">
+<meta property="og:title" content="{{ page.title }} – harry.is" />
+{% if page.main %}
+  <meta name="twitter:image" content="https://harry.is{{ page.main }}">
+  <meta property="og:image" content="https://harry.is{{ page.main }}" />
+{% else %}
+  <meta name="twitter:image" content="https://harry.is/icon.png">
+  <meta property="og:image" content="https://harry.is/icon.png" />
+{% endif %}
+{% if page.meta %}
+  <meta name="twitter:description" content="{{ page.meta }}">
+  <meta property="og:description" content="{{ page.meta }}" />
+  <meta name="description" content="{{ page.meta }}">
+{% else %}
+  <meta name="twitter:description" content="{{ site.meta }}">
+  <meta property="og:description" content="{{ site.meta }}" />
+  <meta name="description" content="{{ site.meta }}">
+{% endif %}
+<meta property="og:url" content="https://harry.is{{ page.url }}" />
+<meta property="og:locale" content="en_GB" />
