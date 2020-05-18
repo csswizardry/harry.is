@@ -57,9 +57,15 @@
   {% if page.meta %}
     <meta name="twitter:description" content="{{ page.meta }}">
     <meta property="og:description" content="{{ page.meta }}" />
+    <meta name="description" content="{{ page.meta }}">
+  {% else %}
+    <meta name="twitter:description" content="{{ site.meta }}">
+    <meta property="og:description" content="{{ site.meta }}" />
+    <meta name="description" content="{{ site.meta }}">
   {% endif %}
   <meta property="og:url" content="https://harry.is{{ page.url }}" />
   <meta property="og:locale" content="en_GB" />
+
 
   <link rel="canonical" href="https://harry.is{{ page.url }}">
   <link rel="apple-touch-icon-precomposed" href="/icon.png" />
