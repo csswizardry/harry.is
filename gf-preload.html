@@ -1,0 +1,14 @@
+---
+title: home
+layout: gf-preload
+lux: Home
+permalink: /gf/preload/
+---
+
+<h1>{% include logotype.html %} <span class="c-lozenge">{{ page.title }}</h1></span>
+
+<ul class="c-card-list">
+  {% for post in site.posts %}
+    {% include card.html %}
+  {% endfor %}
+</ul>

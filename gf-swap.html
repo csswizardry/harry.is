@@ -1,0 +1,14 @@
+---
+title: home
+layout: gf-swap
+lux: Home
+permalink: /gf/swap/
+---
+
+<h1>{% include logotype.html %} <span class="c-lozenge">{{ page.title }}</h1></span>
+
+<ul class="c-card-list">
+  {% for post in site.posts %}
+    {% include card.html %}
+  {% endfor %}
+</ul>
