@@ -1,6 +1,6 @@
 ---
 title: "S-Works Tarmac SL7"
-date: 2020-09-22 15:01:03
+date: 2020-09-28 22:22:03
 categories: riding
 tags: cycling bike highlight
 thumb: /img/content/2020/09/tarmac-thumb.jpg
