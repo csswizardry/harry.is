@@ -11,11 +11,12 @@
   top: 0;
   z-index: 3;
   background-color: $color-bg;
+  background-color: rgba($color-bg, 0.95);
   will-change: transform;
 
   @supports(backdrop-filter: blur(4px)) {
-    background-color: rgba($color-bg, 0.75);
     backdrop-filter: blur(4px);
+    background-color: rgba($color-bg, 0.75);
   }
 
   @include mq($from: md) {

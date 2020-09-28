@@ -23,6 +23,7 @@
   &:focus {
     background-color: $color-brand;
     text-decoration: none;
+    transform: none;
 
     &::before {
       border-right-color: $color-brand;
@@ -38,6 +39,16 @@
     top: 0;
     right: 100%;
     transition: 0.2s;
+  }
+
+  .c-card--highlight &:hover {
+    color: $color-text;
+    background-color: #fff;
+
+    &::before {
+      border-right-color: #fff;
+    }
+
   }
 
 }
