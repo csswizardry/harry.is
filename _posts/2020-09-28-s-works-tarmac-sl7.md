@@ -116,8 +116,8 @@ coming in at the UCI weight limit of 6.8kg, I’ve never even picked up a bike
 this light before, let alone owned one. It’s pretty unusual. In a good way.
 
 The stiffness of both the frame and the wheels mean that the bike is very honest
-and true to power transfer, and every bit of drive that leaves the legs makes
-its way dutifully to the back wheel. This makes for an incredibly fast and
+and faithful to power transfer, and every bit of drive that leaves the legs
+makes its way dutifully to the back wheel. This makes for an incredibly fast and
 powerful ride, which is exactly my style.
 
 <figure>
@@ -183,16 +183,20 @@ Wheels are the single most significant upgrade one can make to a bike, and is
 something I’ve done to every single bike I’ve owned previously. Happily, this
 won’t be something I’ll need to do with the Tarmac. The Rapide CLX wheelset from
 Specialized’s own Roval brand are truly remarkable. Reviewed on their own, they
-consistent get top marks. At 1400g for the paid, they’re incredibly lightweight,
-especially considering their depth (60mm at the back, 51mm up front) and width
-(30.7mm at the back, and a whopping 35mm at the front). The front rim is actuall
-wider than the 26mm tyre that Specialized fits, which looks pretty unusual, and
-certainly takes some getting used to.
+consistently get top marks. At 1400g for the pair, they’re incredibly
+lightweight, especially considering their depth (60mm at the back, 51mm up
+front) and width (30.7mm at the back, and a whopping 35mm at the front). The
+front rim is actually wider than the 26mm tyre that Specialized fits, which
+looks pretty unusual, and certainly takes some getting used to.
 
 The stiffness of the wheels really shines when you put your foot down; they pick
 up and hold speed incredibly well, thanks respectively to their light weight and
 the ceramic internals and aerodynamic profile. Once up to speed, they make the
-most phenomenal noise. To other rider, it sounds more like a car. Stunning.
+most phenomenal noise. To other riders, it sounds more like a car. Stunning.
+
+The only, only downside is that the wheels are not tubeless compatible.
+I haven’t run inner tubes on any of my other bikes since 2018, and being back to
+clinchers does feel like a minor step backwards. Ah well.
 
 <figure>
   <img src="/img/content/2020/09/tarmac-21.jpg" alt="" loading="lazy" />
