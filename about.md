@@ -16,8 +16,11 @@ When I’m not working, you can find me riding one of my bikes—at the moment, 
 main focus is on road riding.
 
 <figure>
-  <img src="/img/content/me-bike.jpg" alt="" />
-  <figcaption>Lorem ipsum dolor sit amet.</figcaption>
+  <img src="/img/content/me-bike.jpg" alt="" onload="performance.clearMarks('About Page Image'); performance.mark('About Page Image');" />
+  <script>
+    performance.clearMarks("About Page Image");
+    performance.mark("About Page Image");
+  </script>
 </figure>
 
 I’m self employed and work across the globe consulting, speaking, and training.

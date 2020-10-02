@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+  <script>performance.mark('HEAD Start');</script>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, minimum-scale=1.0" />
 
@@ -49,6 +50,11 @@
   <link rel="canonical" href="https://harry.is{{ page.url }}">
   <link rel="apple-touch-icon-precomposed" href="/icon.png" />
   <meta name="theme-color" content="#f43059">
+
+  <script>
+    performance.mark('HEAD End');
+    performance.measure('HEAD Time', 'HEAD Start', 'HEAD End');
+  </script>
 </head>
 <body>
 
@@ -90,6 +96,22 @@
 
     </div>
   </footer>
+
+  <script>
+    (function() {
+      // Loop through all performance entries we've captured
+      perfEntries = performance.getEntries();
+      for (i = 0; i < perfEntries.length; i++) {
+        // Only act on mark or measure timings
+        if (perfEntries[i].entryType == 'mark' || perfEntries[i].entryType == 'measure') {
+          // For marks we need the startTime; for measures we need the duration
+          var timingType = perfEntries[i].entryType == 'mark' ? perfEntries[i].startTime : perfEntries[i].duration;
+          // Log the marks and measures
+          console.log(perfEntries[i].name + ': ' + timingType);
+        }
+      }
+    }());
+  </script>
 
 </body>
 </html>
