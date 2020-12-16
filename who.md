@@ -6,14 +6,14 @@ layout: masthead
 lux: About
 ---
 
-Hi there, I’m Harry. I’m a bike-riding web developer from Leeds, UK.
+Hi there, I’m Harry. I turn code into bikes.
 
-Professionally, I help some of the world’s largest and most respected
+I’m a web developer, cyclist, mountain biker, and food and drink enthusiast from
+Leeds, UK. Professionally, I help some of the world’s largest and most respected
 organisations tackle site-speed issues—nobody likes a slow website, and it’s my
 job to make them faster.
 
-When I’m not working, you can find me riding one of my bikes—at the moment, my
-main focus is on road riding.
+When I’m not doing that, you can find me riding one of my bikes.
 
 <figure>
   <img src="/img/content/me-bike.jpg" alt="" onload="performance.clearMarks('About Page Image'); performance.mark('About Page Image');" />
