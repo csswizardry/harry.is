@@ -139,7 +139,7 @@ we both suffered the exact same amount.
 
 I hadn’t embarked on the booster programme with a goal—I just wanted to do some
 structured training with the hope of at least some increase. But toward the end
-of the 28-day itinerary they threw in a six- and a 10-minute ma-effort free
+of the 28-day itinerary they threw in a six- and a 10-minute max-effort free
 ride. Basically a shorter version of the 20-minute test to help you prepare for
 the real thing.
 
