@@ -124,7 +124,7 @@ me](https://whatsonzwift.com/workouts/4wk-ftp-booster). It was a yes, so we
 decided to begin week one on the first Monday of January.
 
 <figure>
-<img src="/img/content/2021/01/ftp-plan.png" alt="" />
+<img src="/img/content/2021/01/ftp-plan.png" alt="" loading="lazy" />
 <figcaption>Sessions were varied. Some tough, some easier, but all good fun.</figcaption>
 </figure>
 
@@ -210,7 +210,7 @@ green in these. I set off too enthusiastic, too hard, and had to pull it back in
 a bit so that I could get over the line strong.
 
 <figure>
-<img src="/img/content/2021/01/4wkg-main.png" alt="" />
+<img src="/img/content/2021/01/4wkg-main.png" alt="" loading="lazy" />
 <figcaption>The outcome of my latest test was an increase from 305 to 332
 watts.</figcaption>
 </figure>
