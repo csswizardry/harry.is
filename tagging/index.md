@@ -7,6 +7,6 @@ layout: default
 
 <nav class="c-tag-list">
 {% for tag in site.tags %}
-  <a href="/{{ tag[0] }}/" class="c-tag">{{ tag[0] }}</a>
+  <a href="/tagging/{{ tag[0] }}/" class="c-tag">{{ tag[0] }}</a>
 {% endfor %}
 </nav>
