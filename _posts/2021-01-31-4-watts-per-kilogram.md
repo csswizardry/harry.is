@@ -176,7 +176,9 @@ If you’ve never done an FTP test before, I hope you never have to. Sincerely,
 they’re the most brutal 20 minutes of your life. The idea is that you ride at
 your maximum effort—not _hard_, not _strong_, but your true maximum—for 20
 straight minutes. No intervals, no rest, no gradual increase, no let-up.
-All-out, maximum effort for 20 whole minutes.
+All-out, maximum effort for 20 whole minutes. By five minutes, you’re hurting.
+By 10 minutes, you can’t see how you can go any longer. By 15 minutes, you’re
+begging and pleading with yourself out loud. By 20 minutes, you’re delirious.
 
 While you will getter with your pacing and expectations with the more tests that
 you do, nothing will ever truly prepare you for one. By the end, the goal is for
