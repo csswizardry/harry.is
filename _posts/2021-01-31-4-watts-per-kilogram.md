@@ -4,7 +4,7 @@ date: 2021-01-31 22:00:39
 categories: riding
 tags: cycling zwift ftp training
 thumb: /img/content/2021/01/4wkg-thumb.png
-main: /img/content/2021/01/4wkg-main.png
+main: /img/content/2021/01/4wkg-main.jpg
 placeholder: '/9j/4QAYRXhpZgAASUkqAAgAAAAAAAAAAAAAAP/sABFEdWNreQABAAQAAABkAAD/7QAsUGhvdG9zaG9wIDMuMAA4QklNBCUAAAAAABAAAAAAAAAAAAAAAAAAAAAA/+4AJkFkb2JlAGTAAAAAAQMAFQQDBgoNAAACMgAAAvgAAAOOAAAEF//bAIQAAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQICAgICAgICAgICAwMDAwMDAwMDAwEBAQEBAQECAQECAgIBAgIDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMD/8IAEQgADAAQAwERAAIRAQMRAf/EALgAAQEBAAAAAAAAAAAAAAAAAAcECAEBAQEAAAAAAAAAAAAAAAAAAwUGEAAABAYDAQAAAAAAAAAAAAABAgMEABESFAUGEyQVFhEAAAQFAwEJAAAAAAAAAAAAAQIDBAAREhMFITEVUUGhIjIjFEQ1FhIAAQEHAgUFAQAAAAAAAAAAAREAMUFhAhITIQNRcYEiFPDRMkJiJBMAAgEDBQACAwAAAAAAAAAAAREAITFBUWFxgZHwwbHR8f/aAAwDAQACEQMRAAABNc/dvozctmiejf/aAAgBAQABBQINhe4zLpbM7y2ZbfKy1nx4/9oACAECAAEFAkgik64k9OoLqr//2gAIAQMAAQUCWGZhOm3gbGXS4//aAAgBAgIGPwICnJXMj3RjtVAug/TgYMbvHvne6UvRb+jDiT6qq9W//9oACAEDAgY/Ar+3b0+IOvPq1O6C486VqhUIyVxbtyuk9qvHy5rhwT9KkXN//9oACAEBAQY/AmeaUzOMQUbMUse4QdqNM4ZVtK8Kws0SGKcnQBMBwMWUFTVcJZBI+NKgD9Fqmidw3bEOqkoqamoHgisN04+M8+oRr+optqUfVz29Wqj5PdLaCcfys7zijkPaUztBclZ18sqqu3bWP//aAAgBAQMBPyFQdmaI3MU86SJcPg0ps9qccnAWTPWnrembXRlX4jj0+Gl//9oACAECAwE/ISgJpJVIQTXUXFqiHJnYJUw+qsihnuXwaeuXdKf+EjtV3mf/2gAIAQMDAT8hGFTgQibLgGvwNJQHGckoEbEhhqBKHQbdbz99TpyepvqaN25//9oADAMBAAIRAxEAABBpf//aAAgBAQMBPxAyQYfAUhjAQp0uQiDd/lAjzMCj8SO3/HGefLtNXSW8T//aAAgBAgMBPxAYIqKBwAOQJdkbIMPZMSzhqopYyQmJyN7GxsK7Ypv2rbeZ2LFP/9oACAEDAwE/EDtr1FIUL6Mg2ArCwQkEyRMLrBOCDWa7YMkcRNakrp9Qbv8AqR4E/9k='
 meta: 'What does a month of FTP training do for you?'
 layout: masthead
@@ -22,7 +22,7 @@ rather than merely maintain my fitness. It went pretty well!
 <!--more-->
 
 <figure>
-<img src="/img/content/2021/01/4wkg-main.png" alt="" />
+<img src="/img/content/2021/01/4wkg-main.jpg" alt="" />
 <figcaption>The outcome of my latest FTP test was an increase from 305 to 332
 watts.</figcaption>
 </figure>
@@ -124,7 +124,7 @@ me](https://whatsonzwift.com/workouts/4wk-ftp-booster). It was a yes, so we
 decided to begin week one on the first Monday of January.
 
 <figure>
-<img src="/img/content/2021/01/ftp-plan.png" alt="" loading="lazy" />
+<img src="/img/content/2021/01/ftp-plan.jpg" alt="" loading="lazy" />
 <figcaption>Sessions were varied. Some tough, some easier, but all good fun.</figcaption>
 </figure>
 
@@ -211,9 +211,8 @@ green in these. I set off too enthusiastic, too hard, and had to pull it back in
 a bit so that I could get over the line strong.
 
 <figure>
-<img src="/img/content/2021/01/4wkg-main.png" alt="" loading="lazy" />
-<figcaption>The outcome of my latest test was an increase from 305 to 332
-watts.</figcaption>
+<img src="/img/content/2021/01/4wkg-main.jpg" alt="" loading="lazy" />
+<figcaption>Despite pacing not being great, my average came out on target.</figcaption>
 </figure>
 
 Despite the poor pacing, I held 350 watts for 20 minutes. **I made my target.**
