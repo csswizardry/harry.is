@@ -5,7 +5,7 @@
 /**
  * 1. In instances where the lozenge sits on a second line, let’s tuck it under
  *    the descenders of the line above. It only works with not-links, but it
- *    looks nice.
+ *    looks nicer.
  */
 
 .c-lozenge {
@@ -14,6 +14,8 @@
   background-color: $color-brand;
   padding: $unit-small;
   transform: rotate(random(4) - 2 + deg);
+  word-break: break-word;
+  hyphens: auto;
 
   &:not(a) {
     position: relative; /* [1] */
