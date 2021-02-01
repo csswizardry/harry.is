@@ -1,4 +1,7 @@
-<h1>Posts tagged <span class="c-lozenge">{{ page.title }}</span></h1>
+<h1>
+  {% include logotype.html %} tagging
+  <span class="c-lozenge">{{ page.title }}</span>
+</h1>
 
 <ul class="c-card-list">
   {% for post in site.tags[page.tag] %}

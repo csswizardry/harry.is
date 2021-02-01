@@ -3,7 +3,10 @@ title: "All Tags"
 layout: default
 ---
 
-<h1>{{ page.title }}</h1>
+<h1>
+  {% include logotype.html %} tagging
+  <span class="c-lozenge">everything</span>
+</h1>
 
 <nav class="c-tag-list">
 {% for tag in site.tags %}
