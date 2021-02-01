@@ -178,18 +178,21 @@ your maximum effort—not _hard_, not _strong_, but your true maximum—for 20
 straight minutes. No intervals, no rest, no gradual increase, no let-up.
 All-out, maximum effort for 20 whole minutes.
 
-While you will getter at pacing and expectations with the more tests you do,
-nothing will ever truly prepare you for one, and by the end, the goal is for
+While you will getter with your pacing and expectations with the more tests that
+you do, nothing will ever truly prepare you for one. By the end, the goal is for
 your body to be truly, fully empty. If you could continue on to 21 minutes, you
 have too much left in the tank. If you could answer a simple maths question, you
 haven’t gone hard enough.
 
+These photos were taken just before and immediately after the test. In fact, the
+night before, I had _two_ separate nightmares about FTP tests.
+
 Honestly, they’re awful.
+
+<img src="/img/content/2021/01/ftp-after.jpg" alt="" loading="lazy" class="c-image  c-image--right" />
 
 Once you have your average power for 20 minutes, you multiply it by 0.95 to get
 your 60-minute power.
-
-<img src="/img/content/2021/01/ftp-after.jpg" alt="" loading="lazy" class="c-image  c-image--right" />
 
 While the specific test that rounded off the training programme was a 20-minute
 test, it was flanked by a warm-up, some short efforts to get the legs working,
