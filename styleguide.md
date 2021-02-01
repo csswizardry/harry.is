@@ -1,14 +1,23 @@
 ---
 layout: masthead
 title: Styleguide
+main: /img/content/2020/09/tarmac-main.jpg
+placeholder: '/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAYGBgYHBgcICAcKCwoLCg8ODAwODxYQERAREBYiFRkVFRkVIh4kHhweJB42KiYmKjY+NDI0PkxERExfWl98fKcBBgYGBgcGBwgIBwoLCgsKDw4MDA4PFhAREBEQFiIVGRUVGRUiHiQeHB4kHjYqJiYqNj40MjQ+TERETF9aX3x8p//CABEIAAkAEAMBIgACEQEDEQH/xAAWAAEBAQAAAAAAAAAAAAAAAAAEAwb/2gAIAQEAAAAAgHQh/8QAFAEBAAAAAAAAAAAAAAAAAAAAA//aAAgBAhAAAAA//8QAFAEBAAAAAAAAAAAAAAAAAAAAA//aAAgBAxAAAABP/8QAJBAAAgAFAgcBAAAAAAAAAAAAAQIAAwQFEROxEhUhNDVydMH/2gAIAQEAAT8AmC41SU+u0uZUhFXAUOzKpwMqMZHXMcvuVPNmvNXULZVUUAKHAPEQN4t3mJPyvtFw76s9T+R//8QAFxEBAAMAAAAAAAAAAAAAAAAAAQAREv/aAAgBAgEBPwDAVP/EABcRAQADAAAAAAAAAAAAAAAAAAEAEjH/2gAIAQMBAT8AW2k//9k='
 permalink: /styleguide/
-main: /img/content/me.jpg
 ---
 
-Pellentesque [habitant morbi tristique](#0) senectus et netus et malesuada fames
-ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor
-sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies
-mi vitae est. Mauris placerat eleifend.
+Lorem ipsum dolor sit amet. Pellentesque [habitant morbi tristique](#0) senectus
+et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat
+vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam
+egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend.
+Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac
+turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor
+sit amet, ante. Donec eu libero sit amet quam egestas semper.
+
+<figure>
+<img src="/img/content/2020/09/tarmac-main.jpg" alt="" />
+<figcaption>Lorem ipsum dolor sit amet.</figcaption>
+</figure>
 
 ## Heading <span class="c-lozenge">Level</span> Two
 
