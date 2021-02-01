@@ -117,9 +117,9 @@ a little more deliberate with it. It’s also pretty timely in that, owing to th
 weather, most cyclists’ fitness wanes over winter.
 
 Whenever I can, I try ride with my pal, Nick. He’s lighter than I am, but
-a strong rider with—before my latest test, at least—an identical watts per
-kilogram. He also loves a challenge, so I text him asking if he fancied taking
-on [this four-week FTP booster plan with
+a strong rider who, at the start of the programme, shared and identical watts
+per kilogram to me. He also loves a challenge, so I text him asking if he
+fancied taking on [this four-week FTP booster plan with
 me](https://whatsonzwift.com/workouts/4wk-ftp-booster). It was a yes, so we
 decided to begin week one on the first Monday of January.
 
