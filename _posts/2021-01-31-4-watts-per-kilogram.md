@@ -63,9 +63,9 @@ faster. The moment you start pointing uphill, things change. A heavier rider is,
 naturally, at a disadvantage, unless they can put out the same or higher w/kg as
 a lighter rider.
 
-It also helps track your own performance if, or as, your weight changes. If you
-want to improve your FTP, you need to get stronger and fitter. If you want to
-improve your FTP/kg, you can:
+It also helps you track your own performance if, or as, your weight changes. If
+you want to improve your FTP, you need to get stronger and fitter. If you want
+to improve your FTP/kg, you can:
 
 1. increase your power and fitness;
 2. reduce your weight;
@@ -124,7 +124,7 @@ me](https://whatsonzwift.com/workouts/4wk-ftp-booster). It was a yes, so we
 decided to begin week one on the first Monday of January.
 
 <figure>
-<img src="/img/content/2021/01/ftp-plan.jpg" alt="" loading="lazy" />
+<img src="/img/content/2021/01/ftp-plan.png" alt="" loading="lazy" />
 <figcaption>Sessions were varied. Some tough, some easier, but all good fun.</figcaption>
 </figure>
 
