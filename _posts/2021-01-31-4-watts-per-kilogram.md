@@ -105,7 +105,7 @@ But! That doesn’t stop people using it as a vanity metric—everyone wants to 
 everyone else’s FTP, and if yours is good, you certainly want to tell everyone
 what it is! And while you can’t game the test itself, you can have goals and
 targets to aim for, which is what I ended up doing about three quarters of the
-way into my FTP Builder.
+way into my FTP Booster.
 
 ## FTP Booster
 
@@ -160,12 +160,13 @@ a shorter test and extrapolate. Which is a shame.
 It was around this time that I realised that perhaps I should set myself
 a target for the main test. A sensible step up would be from 3.7w/kg to 4w/kg.
 My weight hovers anywhere between 81–83kg, so at my heaviest (which I haven’t
-hit for weeks now), I would need 83 × 4.0 which equals 332. Remember, your FTP
-test is based on 95% of your 20-minute power, so on the day I’d need to hold 332
-÷ 0.95 = 349.47 watts.
+hit for weeks now), I would need 83 × 4.0 which equals 332.
+
+Your FTP is based on 95% of your 20-minute power test, so on the day I’d need to
+hold 332 ÷ 0.95 = 349.47 watts.
 
 So now, my target on the day—if I ended up weighing in at my heaviest—would be
-**350 watts**.
+**350 watts**. Remember that number.
 
 ## The Final Test
 
@@ -224,8 +225,8 @@ at 350 watts exactly.
 
 **I did it.**
 
-In fact, on the day I weighed in at 81.4kg. 332 ÷ 81.4 = 4.078624079w/kg. But I’
-comfortable rounding it down to 4w/kg—it means I can eat a little more now.
+In fact, on the day I weighed in at 81.4kg. 332 ÷ 81.4 = 4.078624079w/kg. But
+I’m comfortable rounding it down to 4w/kg—it means I can eat a little more now.
 
 ## Verdict
 
