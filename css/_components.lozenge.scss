@@ -15,6 +15,7 @@
   padding: $unit-small;
   transform: rotate(random(4) - 2 + deg);
   word-break: break-word;
+  -webkit-hyphens: auto;
   hyphens: auto;
 
   &:not(a) {
