@@ -64,7 +64,7 @@ video I could find, my mind was made up—the new SL7 Tarmac had redefined
 everything. Again.
 
 <figure class="o-aspect-ratio" style="--aspect-ratio: 315 / 560">
-  <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/24p0wC4ljrg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/24p0wC4ljrg" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </figure>
 
 Usually, I get everything bike-related from [Woodrup
