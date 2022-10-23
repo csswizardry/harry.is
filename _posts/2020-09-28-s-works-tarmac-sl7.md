@@ -22,7 +22,7 @@ certainly lives up to the hype, and then some. This really is a superbike.
 <!--more-->
 
 <figure>
-  <img src="/img/content/2020/09/tarmac-04.jpg" alt="" />
+  <img src="/img/content/2020/09/tarmac-04.jpg" alt="" width="1280" height="853" />
   <figcaption>2021 Specialized S-Works Tarmac SL7 SRAM Red eTap AXS. Catchy.</figcaption>
 </figure>
 

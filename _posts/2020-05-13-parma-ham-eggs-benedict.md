@@ -19,7 +19,7 @@ together quicker than you think.
 <!--more-->
 
 <figure>
-  <img src="/img/content/2020/05/eggs-benny-plated.jpg" alt="" />
+  <img src="/img/content/2020/05/eggs-benny-plated.jpg" alt="" width="720" height="720"/>
 </figure>
 
 Traditionally, Eggs Benedict would be served with bacon and on an English

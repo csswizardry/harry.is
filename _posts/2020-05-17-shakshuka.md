@@ -20,7 +20,7 @@ make this already-healthy brunch favourite vegan-friendly.
 <!--more-->
 
 <figure>
-  <img src="/img/content/2020/05/shakshuka-plated.jpg" alt="" />
+  <img src="/img/content/2020/05/shakshuka-plated.jpg" alt="" width="720" height="720"/>
   <figcaption>Look at that!</figcaption>
 </figure>
 

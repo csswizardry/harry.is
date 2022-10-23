@@ -22,7 +22,7 @@ rather than merely maintain my fitness. It went pretty well!
 <!--more-->
 
 <figure>
-<img src="/img/content/2021/01/4wkg-main.jpg" alt="" />
+<img src="/img/content/2021/01/4wkg-main.jpg" alt="" width="1280" height="960"/>
 <figcaption>The outcome of my latest FTP test was an increase from 305 to 332
 watts.</figcaption>
 </figure>

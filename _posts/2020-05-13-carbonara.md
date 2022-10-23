@@ -19,7 +19,7 @@ cooking. A true ten-minute meal, most of which will be spent waiting.
 <!--more-->
 
 <figure>
-  <img src="/img/content/2020/05/carbonara-plated.jpg" alt="" />
+  <img src="/img/content/2020/05/carbonara-plated.jpg" alt="" width="720" height="720" />
   <figcaption>Look at that!</figcaption>
 </figure>
 

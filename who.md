@@ -16,7 +16,16 @@ job to make them faster.
 When I’m not doing that, you can find me riding one of my bikes.
 
 <figure>
-  <img src="/img/content/me-bike.jpg" alt="" onload="performance.clearMarks('About Page Image'); performance.mark('About Page Image');" />
+  <img
+       src="/img/content/me-bike.jpg"
+       alt=""
+       width="1280"
+       height="720"
+       fetchpriority="high"
+       decoding="sync"
+       elementtiming="about-image"
+       onload="performance.clearMarks('About Page Image'); performance.mark('About Page Image');"
+  />
   <script>
     performance.clearMarks("About Page Image");
     performance.mark("About Page Image");
