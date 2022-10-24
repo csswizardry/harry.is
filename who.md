@@ -19,8 +19,8 @@ When I’m not doing that, you can find me riding one of my bikes.
   <img
        src="/img/content/me-bike.jpg"
        alt=""
-       width="1280"
-       height="720"
+       width="720"
+       height="480"
        fetchpriority="high"
        decoding="sync"
        elementtiming="about-image"
