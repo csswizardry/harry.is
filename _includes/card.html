@@ -7,10 +7,12 @@
 
   <img src="{{ post.thumb }}" alt="" class="c-card__img" width="96" height="96"
     {% if forloop.first != true %}
-      loading="lazy"
+      loading=lazy
     {% endif %}
     {% if forloop.first == true %}
-    onload="performance.clearMarks('First Post Thumb'); performance.mark('First Post Thumb');"
+      fetchpriority=high
+      decoding=sync
+      onload="performance.clearMarks('First Post Thumb'); performance.mark('First Post Thumb');"
     {% endif %}
   />
 
