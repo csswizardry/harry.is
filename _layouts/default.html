@@ -34,9 +34,16 @@
   <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,900;1,900&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&display=swap"
         media="print" onload="this.media='all'" />
 
+  <script>performance.mark('CSS Start');</script>
+
   <style>
     {% include css/main.min.css %}
   </style>
+
+  <script>
+    performance.mark('CSS End');
+    performance.measure('CSS Time', 'CSS Start', 'CSS End');
+  </script>
 
   {% include meta-social.html %}
 
