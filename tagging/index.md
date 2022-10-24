@@ -3,7 +3,7 @@ title: "All Tags"
 layout: default
 ---
 
-<h1>
+<h1 elementtiming="page-title">
   {% include logotype.html %} tagging
   <span class="c-lozenge">everything</span>
 </h1>

@@ -3,7 +3,7 @@ title: "All Categories"
 layout: default
 ---
 
-<h1>
+<h1 elementtiming="page-title">
   {% include logotype.html %} is writing about
 
   {% for category in site.categories %}
