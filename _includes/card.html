@@ -8,6 +8,7 @@
   <img src="{{ post.thumb }}" alt="" class="c-card__img" width="96" height="96"
     {% if forloop.first != true %}
       loading=lazy
+      decoding=async
     {% endif %}
     {% if forloop.first == true %}
       fetchpriority=high
