@@ -8,9 +8,10 @@
 
   <link rel="preconnect" href="https://lux.speedcurve.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link rel="preconnect" href="https://res.cloudinary.com" />
 
   {% if page.main %}
-    <link rel="preload" as="image" href="{{ page.main }}" fetchpriority=high />
+    <link rel="preload" as="image" href="https://res.cloudinary.com/csswizardry/image/fetch/f_jpg,q_5/https://harry.is{{ page.main }}" fetchpriority=high />
   {% endif %}
 
   <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,900;1,900&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&display=swap" />
