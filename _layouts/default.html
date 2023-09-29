@@ -43,13 +43,6 @@
 
   {% include meta-social.html %}
 
-  {% if page.previous.url %}
-    <link rel="prerender" href="{{page.previous.url}}" />
-  {% endif %}
-  {% if page.next.url %}
-    <link rel="prerender" href="{{page.next.url}}" />
-  {% endif %}
-
   <link rel="canonical" href="https://harry.is{{ page.url }}">
   <link rel="apple-touch-icon-precomposed" href="/icon.png">
   <meta name="theme-color" content="#f43059">
