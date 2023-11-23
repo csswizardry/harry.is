@@ -34,11 +34,11 @@
 }
 
 @mixin font-display() {
-  font-family: Montserrat, sans-serif;
+  font-family: Montserrat, system-ui, sans-serif;
 }
 
 @mixin font-body() {
-  font-family: Roboto, sans-serif;
+  font-family: Roboto, system-ui, sans-serif;
 }
 
 @mixin font-ui() {
