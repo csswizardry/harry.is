@@ -131,7 +131,7 @@ creaminess.
 
 <figure>
   <img src="/img/content/2024/10/nduja-09.jpg" alt="" width="1280" height="720" loading="lazy">
-  <figcaption>lorem</figcaption>
+  <figcaption>Keep adding cream until it looks like something you might want to eat.</figcaption>
 </figure>
 
 The secondary benefit of adding the cream slowly is that you don’t accidentally
@@ -144,7 +144,7 @@ for seasoning.
 
 <figure>
   <img src="/img/content/2024/10/nduja-10.jpg" alt="" width="1280" height="720" loading="lazy">
-  <figcaption>lorem</figcaption>
+  <figcaption>Once you’re looking at something like this, check and adjust seasoning.</figcaption>
 </figure>
 
 Once your pasta is ready, drain it but **keep a cup of the starchy pasta
@@ -164,7 +164,7 @@ Now stir in a handful of the chopped parsley and toss some more to mix.
 
 <figure>
   <img src="/img/content/2024/10/nduja-main.jpg" alt="" width="1280" height="720" loading="lazy">
-  <figcaption>lorem</figcaption>
+  <figcaption>Ohh man, I could eat it right from the pan.</figcaption>
 </figure>
 
 ### Oh, No! My Sauce Has Split!
@@ -229,3 +229,5 @@ morning.
 
 Got some leftover cooked pasta? Coat it in good quality olive oil and black
 pepper and you have a great cold (if a little carby) snack.
+
+Everything else can stay in your cupboard or fridge for another occasion.
