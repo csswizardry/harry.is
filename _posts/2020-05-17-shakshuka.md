@@ -27,7 +27,7 @@ make this already-healthy brunch favourite vegan-friendly.
 ## You Will Need
 
 <figure>
-  <img src="/img/content/2020/05/shakshuka-ingredients.jpg" alt="" loading="lazy" />
+  <img src="/img/content/2020/05/shakshuka-ingredients.jpg" alt="" width="1280" height="720" loading="lazy" />
   <figcaption>Most things you will already have in the cupboard.</figcaption>
 </figure>
 
@@ -41,7 +41,7 @@ To serve two people:
 * 3× garlic cloves, minced
 * 1tbsp tomato paste
 * 1tsp cumin
-  <img src="/img/content/2020/05/shakshuka-spices.jpg" alt="" loading="lazy" class="c-image  c-image--right" />
+  <img src="/img/content/2020/05/shakshuka-spices.jpg" alt="" loading="lazy" width="720" height="720" class="c-image  c-image--right" />
 * ½tsp smoked paprika
 * ½tsp chili flakes
 * Bunch fresh parsley, roughly chopped
@@ -64,7 +64,7 @@ Preheat an oven to 180ºC. If you don’t have an oven-safe frying pan, place an
 ovenproof dish into the oven for later.
 
 <figure>
-  <img src="/img/content/2020/05/shakshuka-sweat.jpg" alt="" loading="lazy" />
+  <img src="/img/content/2020/05/shakshuka-sweat.jpg" alt="" loading="lazy" width="720" height="720" />
   <figcaption>For reference, this pan is 20cm diameter.</figcaption>
 </figure>
 
@@ -72,7 +72,7 @@ Sweat your onion, red pepper, and garlic in a little olive oil until the onion
 softens and turns translucent.
 
 <figure>
-  <img src="/img/content/2020/05/shakshuka-spices-toast.jpg" alt="" loading="lazy" />
+  <img src="/img/content/2020/05/shakshuka-spices-toast.jpg" alt="" loading="lazy" width="720" height="720" />
   <figcaption></figcaption>
 </figure>
 
@@ -82,7 +82,7 @@ flavours more bold and fragrant. This step is entirely optional, but we have
 plenty of time.
 
 <figure>
-  <img src="/img/content/2020/05/shakshuka-paste.jpg" alt="" loading="lazy" />
+  <img src="/img/content/2020/05/shakshuka-paste.jpg" alt="" loading="lazy" width="720" height="720" />
   <figcaption></figcaption>
 </figure>
 
@@ -90,7 +90,7 @@ Once your onion and pepper is softened, add the spices along with a tablespoon
 (15ml) of tomato purée and combine into a thick paste.
 
 <figure>
-  <img src="/img/content/2020/05/shakshuka-sauce.jpg" alt="" loading="lazy" />
+  <img src="/img/content/2020/05/shakshuka-sauce.jpg" alt="" loading="lazy" width="720" height="720" />
   <figcaption></figcaption>
 </figure>
 
@@ -99,7 +99,7 @@ of parsley (as much or as little as you like). Season generously and leave to
 simmer for 5 minutes.
 
 <figure>
-  <img src="/img/content/2020/05/shakshuka-eggs.jpg" alt="" loading="lazy" />
+  <img src="/img/content/2020/05/shakshuka-eggs.jpg" alt="" loading="lazy" width="720" height="720" />
   <figcaption></figcaption>
 </figure>
 
@@ -119,7 +119,7 @@ East) used in the shakshuka, a compound harissa butter makes a great addition to
 your toast.
 
 <figure>
-  <img src="/img/content/2020/05/shakshuka-butter.jpg" alt="" loading="lazy" />
+  <img src="/img/content/2020/05/shakshuka-butter.jpg" alt="" loading="lazy" width="720" height="720" />
   <figcaption>Butter but better.</figcaption>
 </figure>
 
@@ -142,6 +142,6 @@ When the shakshuka is finished, remove from the oven and garnish with crumbled
 feta, some more parsley, and a sprinkle of either zatar or sumac.
 
 <figure>
-  <img src="/img/content/2020/05/shakshuka-main.jpg" alt="" loading="lazy" />
+  <img src="/img/content/2020/05/shakshuka-main.jpg" alt="" loading="lazy" width="1280" height="720" />
   <figcaption></figcaption>
 </figure>
