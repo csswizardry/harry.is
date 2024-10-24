@@ -93,6 +93,29 @@
 
   <link rel=stylesheet href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,900;1,900&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&display=optional" fetchpriority=low>
 
+  <script type=speculationrules>
+    {
+      "prefetch": [
+        {
+          "source": "document",
+          "where": {
+            "selector_matches": "a[href*='/']"
+          },
+          "eagerness": "immediate"
+        }
+      ],
+      "prerender": [
+        {
+          "source": "document",
+          "where": {
+            "selector_matches": "a[href*='/']"
+          },
+          "eagerness": "moderate"
+        }
+      ]
+    }
+  </script>
+
   <script>
     (function() {
       // Loop through all performance entries we've captured
