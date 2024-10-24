@@ -112,7 +112,7 @@ way into my FTP Booster.
 On New Year’s Day, I was considering what bike riding might look like for me in
 the coming year. I’m not one for New Year’s Resolutions, but given how [big
 a part of my 2020 cycling had
-been](https://harry.is/riding/s-works-tarmac-sl7/), I wanted to do something
+been](/riding/s-works-tarmac-sl7/), I wanted to do something
 a little more deliberate with it. It’s also pretty timely in that, owing to the
 weather, most cyclists’ fitness wanes over winter.
 
