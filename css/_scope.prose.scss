@@ -8,8 +8,17 @@
     text-wrap: pretty;
   }
 
+  /**
+   * Make the lede a little larger, but not much.
+   *
+   * 1. This is gross, but let’s ensure the lede always takes up six lines’
+   *    height, even if it falls short in word-count. This is so that the
+   *    masthead lines up with the first image in the design, which is
+   *    admittedly all quite brittle.
+   */
   > p:first-of-type {
     @include font-size(18px);
+    min-height: 6 * $unit; /* [1] */
   }
 
   ul {
