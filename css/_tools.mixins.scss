@@ -47,8 +47,6 @@
 
 @mixin rotate($limit: 5) {
 
-  $primes: 1, 2, 3, 5, 7, 11, 13, 17, 19, 23, 29;
-
   @each $prime in $primes {
     &:nth-of-type(#{$prime}n) {
       transform: rotate(random(2 * $limit) - $limit + deg);

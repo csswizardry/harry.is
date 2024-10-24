@@ -12,6 +12,23 @@
     @include font-size(18px);
   }
 
+  ul {
+    list-style-type: square;
+
+    li {
+
+      &::marker {
+        color: $color-brand;
+      }
+
+    }
+
+    ul {
+      list-style-type: disc;
+    }
+
+  }
+
   ol {
     counter-reset: ol;
     list-style: none;
@@ -39,8 +56,9 @@
 
   li {
 
-    $primes: 1, 2, 3, 5, 7, 11, 13, 17, 19, 23, 29;
-
+    // Unfortunately, we can’t use our `rotate()` mixin here as we need to pass
+    // a sub-selector into it, which the mixin doesn’t currently facilitate. I’d
+    // rather copy/paste than refactor at this juncture.
     @each $prime in $primes {
       &:nth-of-type(#{$prime}n) {
         &::before { transform: rotate(random(30) - 15 + deg); }
