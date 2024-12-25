@@ -67,22 +67,4 @@
 
   }
 
-  @keyframes reveal {
-    from {
-      opacity: 0;
-    }
-    50% {
-      opacity: 1;
-    }
-  }
-
-  @supports (animation-timeline: view()) {
-
-    img {
-      animation: reveal 1s linear both;
-      animation-timeline: view();
-    }
-
-  }
-
 }
