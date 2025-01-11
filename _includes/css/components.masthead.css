@@ -1,1 +1,1 @@
-.c-masthead{overflow:hidden;padding-top:56.25%;background-size:cover;background-position:center center}@media (min-width: 64em){.c-masthead{padding-top:0;height:36rem}}
+.c-masthead{overflow:hidden;padding-top:56.25%;background-size:cover;background-position:center center;animation:masthead linear both;animation-timeline:scroll()}@media (min-width: 64em){.c-masthead{padding-top:0;height:36rem}}@keyframes masthead{10%{background-position:center bottom}}
