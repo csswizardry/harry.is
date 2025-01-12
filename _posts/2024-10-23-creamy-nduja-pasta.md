@@ -1,5 +1,5 @@
 ---
-title: "Creamy ’Nduja Pasta"
+title: "Easy Creamy ’Nduja Pasta"
 date: 2024-10-23 21:35:18
 categories: cooking
 tags: pasta italian spicy recipe cream
@@ -13,11 +13,9 @@ lux: Post
 ---
 
 ’Nduja is a flavourful, spicy, spreadable pork sausage from Italy’s Calabria
-region. This simple dish—one of my current favourites—combines it with cream and
-pasta for a proper ten-minute meal. For a bit of texture and colour, we’ll
-finish it with a quick Parmesan and parsley gratin. But be warned: this meal
-isn’t exactly a nutritional powerhouse, so enjoy it in moderation! That said,
-its bold flavours and indulgent creaminess make it a perfect occasional treat.
+region. This simple dish combines it with cream and pasta for a proper
+ten-minute meal. For a bit of texture and colour, we’ll finish it with a quick
+Parmesan and parsley gratin.
 
 <!--more-->
 
