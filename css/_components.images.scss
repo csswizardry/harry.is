@@ -5,6 +5,11 @@
 .c-image {
   margin-bottom: $unit;
   max-width: 50%;
+
+  p:has(&) {
+    margin-bottom: 0;
+  }
+
 }
 
 .c-image--small {
@@ -21,4 +26,15 @@
   float: right;
   margin-right: -$unit;
   margin-left: $unit;
+}
+
+/**
+ * Full (as in FULL) width images that occupy the entire screen’s width, not
+ * just the container’s.
+ */
+.c-image--panoramic {
+  width: 100%;
+  max-width: 100%;
+  margin-top:    9rem;
+  margin-bottom: 9rem;
 }

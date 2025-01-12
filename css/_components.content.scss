@@ -9,6 +9,7 @@
     position: relative;
     z-index: 1;
     background-color: $color-bg;
+    background-color: rgba(249, 249, 249, 0.9);
     //background-image: linear-gradient(darken($color-bg, 5%), $color-bg 24 * $unit);
     margin-top: -12 * $unit;
   }

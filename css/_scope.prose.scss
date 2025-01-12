@@ -8,7 +8,7 @@
     text-wrap: pretty;
   }
 
-  > p:first-of-type {
+  > h1 + p {
     @include font-size(18px);
   }
 

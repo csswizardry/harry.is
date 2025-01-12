@@ -5,3 +5,13 @@
 b, strong {
   font-weight: 700;
 }
+
+hr {
+  width: 50%;
+  margin-top: 9rem;
+  margin-right: auto;
+  margin-bottom: calc(9rem - 1px);
+  margin-left:  auto;
+  border: none;
+  border-top: 1px solid #ccc;
+}
