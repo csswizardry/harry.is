@@ -108,7 +108,7 @@ document.write('</div>');
 document.currentScript.remove();
 </script>
 
-<img src="/img/content/2025/01/pano.jpg" width="2880" height="778" alt="A vast panoramic photo of the snow-covered moors surrounding Stoodley Pike and its monument." class="c-image  c-image--panoramic">
+<img src="/img/content/2025/01/pano.jpg" width="2880" height="778" alt="A vast panoramic photo of the snow-covered moors surrounding Stoodley Pike and its monument." loading="lazy" class="c-image  c-image--panoramic">
 
 <script>
 // Re-enter wrapper mode.
