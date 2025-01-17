@@ -12,6 +12,12 @@
     @include font-size(18px);
   }
 
+  details {
+    background-color: #ffc;
+    margin-right: -$unit;
+    margin-left:  -$unit;
+  }
+
   ul {
     list-style-type: square;
 
