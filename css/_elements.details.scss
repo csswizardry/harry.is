@@ -1,0 +1,29 @@
+/* ==========================================================================
+   #DETAILS
+   ========================================================================== */
+
+details {
+  padding: 1.5rem;
+
+  > :last-child {
+    margin-bottom: 0;
+  }
+
+}
+
+summary {
+  font-weight: bold;
+  cursor: pointer;
+  color: #f43059;
+
+  &:hover,
+  &:focus,
+  details[open] & {
+    text-decoration: underline;
+  }
+
+  details[open] & {
+    margin-bottom: $unit;
+  }
+
+}
