@@ -1,5 +1,5 @@
 ---
-title: "Easy Creamy ’Nduja Pasta Sauce"
+title: "Easy Creamy ’Nduja Pasta"
 date: 2024-10-23 21:35:18
 categories: cooking
 tags: pasta italian spicy recipe cream
