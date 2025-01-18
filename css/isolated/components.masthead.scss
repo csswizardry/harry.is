@@ -9,8 +9,7 @@
   padding-top: 56.25%;
   background-size: cover;
   background-position: center center;
-  //position: sticky;
-  //top: 0;
+  box-shadow: 0 0 50px rgba(0,0,0,.5) inset;
   animation: masthead linear both;
   animation-timeline: scroll();
 
