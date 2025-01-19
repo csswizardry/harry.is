@@ -40,6 +40,8 @@
 .c-image--panoramic {
   width: 100%;
   max-width: 100%;
-  margin-top:    9rem;
-  margin-bottom: 9rem;
+  margin-top: 9rem;
+  &#{&} {
+    margin-bottom: 9rem;
+  }
 }
