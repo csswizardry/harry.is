@@ -58,8 +58,8 @@ The ingredients list is minimal. You will need:
 * Three spring onions
 * Lap cheong
   - Lap cheong is a cured, slightly sweet sausage from southern China
-* [MSG](/cooking/with-salt/#bonus-round-msg--c5h8no4na)
 * [Salt](/cooking/with-salt/)
+* [MSG](/cooking/with-salt/#bonus-round-msg--c5h8no4na)
 * Light and dark soy sauce
 * Sesame oil
 
