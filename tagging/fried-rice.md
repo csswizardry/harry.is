@@ -1,6 +1,6 @@
 ---
 title: "fried rice"
-tag: "fried rice"
+tag: "fried-rice"
 layout: default
 ---
 
