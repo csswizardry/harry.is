@@ -114,16 +114,16 @@ That’s all the ingredients done! Now it’s time to cook.
   <img src="/img/content/2025/01/lap-cheong-oil.jpg" alt="Hot oil in a wok, ready for cooking lap cheong fried rice." width="1280" height="720" loading="lazy">
 </figure>
 
-Begin by heating a neutral oil in a high-sided pan or wok. I tend to use canola
-oil for most day-to-day cooking, which might surprise you, but I’ll write about
-that one another time.
+Begin by heating a neutral **oil** in a high-sided pan or wok. I tend to use
+canola oil for most day-to-day cooking, which might surprise you, but I’ll write
+about that one another time.
 
 <figure>
   <img src="/img/content/2025/01/lap-cheong-egg.jpg" alt="Egg mixture in a wok, being stirred with chopsticks as part of the fried rice preparation." width="960" height="1280" loading="lazy">
 </figure>
 
-Add your eggs, lightly season with salt, and begin to scramble them until 80–90%
-cooked.
+Add your **eggs**, lightly season with salt, and begin to scramble them until
+80–90% cooked.
 
 <figure>
   <img src="/img/content/2025/01/lap-cheong-egg-cooked.jpg" alt="Eggs scrambled separately and ready to be added to lap cheong fried rice." width="960" height="1280" loading="lazy">
@@ -137,23 +137,23 @@ Remove the partially cooked eggs and set aside.
 
 Wipe the pan clean and add a drizzle more oil if necessary. The sausage will
 release some fat of its own so don’t add too much extra. Slowly begin to render
-out the sausage over the same high heat.
+out the **sausage** over the same high heat.
 
 <figure>
   <img src="/img/content/2025/01/lap-cheong-sausage-onion.jpg" alt="Lap cheong sausage and spring onions stir-frying together in a wok, forming the base for the fried rice." width="1280" height="720" loading="lazy">
 </figure>
 
-Once visibly beginning to cook, add the whites of the spring onion and season
-lightly with salt. Cook these together for a few minutes until the onions have
-started to soften.
+Once visibly beginning to cook, add the whites of the **spring onion** and
+season lightly with salt. Cook these together for a few minutes until the onions
+have started to soften.
 
 <figure>
   <img src="/img/content/2025/01/lap-cheong-rice.jpg" alt="Cooked jasmine rice being stir-fried with lap cheong in a wok." width="960" height="1280" loading="lazy">
 </figure>
 
 Once the onions are starting to colour (you can just see one that’s clung to the
-side of the pan above), add a couple of handfuls of rice. For reference, I’ve
-added about 250g of rice _before cooking_ to this pan.
+side of the pan above), add a couple of handfuls of **rice**. For reference,
+I’ve added about 250g of rice _before cooking_ to this pan.
 
 Add a good dash more oil to coat the rice and salt again. It’s important to
 keep everything moving from here on in. Toss and stir and toss and stir,
@@ -169,7 +169,7 @@ flavour. Then, in the same way, add a little less **dark soy**. Dark soy will
 add flavour, naturally, but also beautiful colour. Taste and adjust, but
 I generally tend to find that 2:1 light to dark soy seems to work best.
 
-If your soy doesn’t have any added MSG, now would be a good time to add
+If your soy doesn’t have any added **MSG**, now would be a good time to add
 a sprinkle yourself.
 
 <figure>
@@ -177,21 +177,21 @@ a sprinkle yourself.
 </figure>
 
 Now, and you can barely see it in the photo above (it was difficult to take
-photos while cooking a fried rice), it’s time to introduce your egg. As before,
-keep things moving—toss the pan to ensure the egg cooks the rest of the way
-through and gets evenly distributed among the rice.
+photos while cooking a fried rice), it’s time to introduce your **egg**. As
+before, keep things moving—toss the pan to ensure the egg cooks the rest of the
+way through and gets evenly distributed among the rice.
 
 <figure>
   <img src="/img/content/2025/01/lap-cheong-onion.jpg" alt="Spring onion greens added to colour and garnish lap cheong fried rice." width="960" height="1280" loading="lazy">
 </figure>
 
 We’re 90% there! For your final move, kill the heat (or remove the pan) and add
-in the greens of the onions. Toss to distribute and adjust for seasoning one
+in the **greens** of the onions. Toss to distribute and adjust for seasoning one
 final time. That whole process should have only taken a few minutes!
 
-Dish the rice into a warmed bowl and drizzle with a small amount of sesame oil
-to taste. This will add a subtle but unmistakable finish that should not be
-overlooked!
+Dish the rice into a warmed bowl and drizzle with a small amount of **sesame
+oil** to taste. This will add a subtle but unmistakable finish that should not
+be overlooked!
 
 <figure>
   <img src="/img/content/2025/01/lap-cheong-aerial.jpg" alt="Aerial view of a bowl of lap cheong fried rice, garnished with spring onions and scrambled eggs." width="720" height="720" loading="lazy">
