@@ -19,4 +19,13 @@
   .c-content__meta {
     display: block;
     color: #666;
+
+    /**
+     * Heavy-handed way of whipping the internal-link favicon back off of this
+     * link specifically.
+     */
+    &#{&}#{&} a::after {
+      content: none;
+    }
+
   }

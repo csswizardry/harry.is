@@ -12,6 +12,18 @@
     @include font-size(18px);
   }
 
+  a[href^="https://harry.is"]::after,
+  a[href^="/"]::after {
+    content: "";
+    display: inline-block;
+    width: 1ch;
+    height: 1ch;
+    background-image: url(/icon.png);
+    background-size: cover;
+    margin-left: 0.1ch;
+    vertical-align: super;
+  }
+
   details {
     background-color: #ffc;
     margin-right: -$unit;
