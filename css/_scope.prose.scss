@@ -12,8 +12,10 @@
     @include font-size(18px);
   }
 
-  a[href^="https://harry.is"]::after,
-  a[href^="/"]::after {
+  [href^="/"]::after,
+  [href^="#"]::after,
+  [href^="https://harry.is"]::after,
+  [href^="https://csswizardry.com"]::after {
     content: "";
     display: inline-block;
     width: 1ch;
@@ -22,6 +24,10 @@
     background-size: cover;
     margin-left: 0.1ch;
     vertical-align: super;
+  }
+
+  [href^="https://csswizardry.com"]::after {
+    background-image: url(https://csswizardry.com/icon.png);
   }
 
   details {
