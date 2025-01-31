@@ -6,14 +6,16 @@ layout: masthead
 lux: About
 ---
 
-Hi there, I’m Harry. I turn code into bikes.
+Hi there, I’m Harry. I turn code into bikes. I’m a [web
+developer](https://csswizardry.com/), [cyclist](/riding/), and [food and
+drink](/cooking/) enthusiast from [Leeds](https://en.wikipedia.org/wiki/Leeds),
+UK.
 
-I’m a web developer, cyclist, mountain biker, and food and drink enthusiast from
-Leeds, UK. Professionally, I help some of the world’s largest and most respected
+Professionally, I help some of the world’s largest and most respected
 organisations tackle site-speed issues—nobody likes a slow website, and it’s my
 job to make them faster.
 
-When I’m not doing that, you can find me riding one of my bikes.
+When I’m not doing that, you can find me riding bikes or cooking food.
 
 <figure>
   <img
