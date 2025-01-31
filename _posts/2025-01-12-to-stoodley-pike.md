@@ -126,11 +126,11 @@ you meander through fields, before plunging steeply down Horsehold Road toward
 the town centre (and the pub).
 
 <figure class="c-photo-wall">
-  <img src="/img/content/2025/01/long-stoop.jpg" width="960" height="1280" alt="A snow-covered Long Stoop marker stone leans in its foundations; the backdrop is snowy landscapes and blue skies.">
-  <img src="/img/content/2025/01/flask.jpg" width="960" height="1280" alt="A Thermos flask sits on a snow-topped ledge surrounding the balcony of the monument.">
-  <img src="/img/content/2025/01/sheep.jpg" width="960" height="1280" alt="A group of sheep are stood by a wall; one of them is staring right into the camera.">
-  <img src="/img/content/2025/01/pint.jpg" width="960" height="1280" alt="A golden pint of ale sits on a round wooden table next to a copy of The Pub Paper. It is illuminated by the winter sun.">
-  <img src="/img/content/2025/01/pub.jpg" width="960" height="1280" alt="The old-world interior of The Fox and Goose pub in Hebden Bridge.">
+  <img src="/img/content/2025/01/long-stoop.jpg" width="960" height="1280" alt="A snow-covered Long Stoop marker stone leans in its foundations; the backdrop is snowy landscapes and blue skies." loading="lazy">
+  <img src="/img/content/2025/01/flask.jpg" width="960" height="1280" alt="A Thermos flask sits on a snow-topped ledge surrounding the balcony of the monument." loading="lazy">
+  <img src="/img/content/2025/01/sheep.jpg" width="960" height="1280" alt="A group of sheep are stood by a wall; one of them is staring right into the camera." loading="lazy">
+  <img src="/img/content/2025/01/pint.jpg" width="960" height="1280" alt="A golden pint of ale sits on a round wooden table next to a copy of The Pub Paper. It is illuminated by the winter sun." loading="lazy">
+  <img src="/img/content/2025/01/pub.jpg" width="960" height="1280" alt="The old-world interior of The Fox and Goose pub in Hebden Bridge." loading="lazy">
 </figure>
 
 My primary destination is, and always will be, [<i>The Fox and
