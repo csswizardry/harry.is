@@ -30,14 +30,22 @@ q {
  * 1. Hang opening punctuation.
  */
 blockquote {
-  @include font-size(18px);
-  margin-right: 2 * $unit;
-  margin-left:  2 * $unit;
+  @include font-size(20px);
+  font-family: Charter, Bitstream Charter, Sitka Text, Cambria, serif;
+  margin: 2 * $unit;
   font-style: italic;
   quotes: "“" "”";
+  color: #666;
+
+  @media (min-width: 60rem) {
+    margin-top:    6 * $unit;
+    margin-right:     -$unit;
+    margin-bottom: 6 * $unit;
+    margin-left:      -$unit;
+  }
 
   p {
-    text-indent: -0.35em; /* [1] */
+    text-indent: -0.275em; /* [1] */
 
     &:before {
       content: open-quote;
