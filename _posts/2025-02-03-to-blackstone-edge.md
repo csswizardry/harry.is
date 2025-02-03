@@ -19,7 +19,7 @@ Manchester. I first did this walk on my own [back in February
 day_, and made better by having my good friend
 [Ross](https://www.instagram.com/rossmthomas) with me, the weather was a bit
 different this time around: overcast, a little windy, and very cold when
-exposed. It was still an amazing route and a great day out, and a great way to
+exposed. It was still an amazing route and a great day out, and a fun way to
 spend an afternoon.
 
 <!--more-->
