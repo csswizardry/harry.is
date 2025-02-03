@@ -11,14 +11,14 @@
   margin-bottom: 9rem;
 }
 
-    @media (min-width: 60rem) {
+  @media (min-width: 60rem) {
 
-      .c-photo-wall {
-        margin-right: -9rem;
-        margin-left: -9rem;
-      }
-
+    .c-photo-wall {
+      margin-right: -9rem;
+      margin-left:  -9rem;
     }
+
+  }
 
 .c-photo-wall > img {
   margin-right: 0;
