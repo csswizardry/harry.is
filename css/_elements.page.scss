@@ -9,4 +9,13 @@ html {
   background-color: $color-bg;
   font-size: 1em;
   line-height: 1.5;
+
+  /**
+   * Disable custom fonts on slower connections (N.B. we still fetch the Google
+   * Fonts CSS file, just none of the heavy font files).
+   */
+  &.has-delivery-mode-lite {
+    font-family: system-ui, sans-serif;
+  }
+
 }

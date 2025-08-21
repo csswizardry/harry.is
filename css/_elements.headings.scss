@@ -6,6 +6,11 @@ h1, h2, h3, h4, h5, h6 {
   @include font-display();
   font-weight: 900;
   text-wrap: balance;
+
+  .has-delivery-mode-lite & {
+    font-family: system-ui, sans-serif;
+  }
+
 }
 
 h1 {
