@@ -5,7 +5,8 @@ categories: hiking
 tags: manchester yorkshire hiking walking
 thumb: /img/content/2025/02/blackstone-thumb.jpg
 main: /img/content/2025/02/blackstone-main.jpg
-placeholder: 'iVBORw0KGgoAAAANSUhEUgAAABAAAAAJCAIAAAHDTwvzAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAdFJREFUeNpi3H3sOjsbE7MA97/X904DBBDjnpM3Gf8zMHh7ucorSgEEEGNd9xQVGZF79+6x/f0GEAAnANj/Ab3J2AQDAP7+Av/9/QS1uLXw7OQgFRIKBPgDGxMEGg8BAgD3iJGdAohx+6ELjExM3z+/4eMXYgQCJoa/f//9+f2PZcmsemF+Dk01/Qsvnn/89EFCmPPnn/9fPrwHCAB9AIL/Ab3J2f///wEBAAUEAf//AP3+Af/9/gAA/QL7+vn//vzs5dr9+/j8+vgB/vb8/fb6+fcEwcO79fX4QTYoqqulFxEQ/vn4DQn/BAL+AyMaBx4SCfDu7AH37gEA8QD57QP/9dna2wQLCQfJz9gRDgQhHRsDAATi7e2orrcLCgkCdED2OggCQRDeOxY5UREwNkrrM1j7kr6Bnb1PYILBGBO1UmNtYfAHkL+7czGZZmaTzTfD1vurVKqupdKEzQEUawR/It6kAKzx1FxJWeP2dCNLAbXyzbTNi7d2ioJukhusIywFnOg5KNoJ6go3qzlyPfQdv+9NpjNvEOyWiyqPWy3TFnZuskpKE7F5qVWa5eg6HtNFHL/Ol3sYHdLs4/a6wXiEiN+yTPIqjI6PZ0JcAIYlxA+IAt3TLhfYuQAAAABJRU5ErkJggg=='
+hero_responsive: true
+placeholder: '/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAYGBgYHBgcICAcKCwoLCg8ODAwODxYQERAREBYiFRkVFRkVIh4kHhweJB42KiYmKjY+NDI0PkxERExfWl98fKcBBgYGBgcGBwgIBwoLCgsKDw4MDA4PFhAREBEQFiIVGRUVGRUiHiQeHB4kHjYqJiYqNj40MjQ+TERETF9aX3x8p//CABEIAAkAEAMBIgACEQEDEQH/xAApAAEBAQAAAAAAAAAAAAAAAAAFAwcBAQEAAAAAAAAAAAAAAAAAAAAC/9oADAMBAAIQAxAAAAByefCQ/8QAIhAAAgEDAgcAAAAAAAAAAAAAAQIDAAQRBrESEyIzNXKC/9oACAEBAAE/AI9bRujsVjRxjgjY4Z81Pru2gwJ+UjEZCl+o1beRHoNq1n37D63Ff//EABgRAAIDAAAAAAAAAAAAAAAAAAADAREy/9oACAECAQE/AJey9H//xAAYEQACAwAAAAAAAAAAAAAAAAAAEQECA//aAAgBAwEBPwCM6Jo//9k='
 meta: 'A 10km circular walk to Blackstone Edge via the ancient Roman road and Aiggin Stone, straddling the Yorkshire–Greater Manchester border. Rugged moorland, historic landmarks, and sweeping Pennine views make this a classic hike.'
 layout: masthead
 type: post

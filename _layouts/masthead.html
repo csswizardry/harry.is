@@ -9,7 +9,29 @@ layout: default
   {% include css/components.masthead.css %}
 </style>
 
-<div class="c-masthead" style="background-image: url({{ page.main }}), url('data:image/jpeg;base64,{{ page.placeholder }}');" elementtiming="masthead">
+{% comment %}
+  Derive small and medium hero paths from the main path.
+{% endcomment %}
+{% assign hero_small = page.main %}
+{% assign hero_medium = page.main %}
+{% if page.hero_responsive %}
+  {% assign hero_small = page.main | replace: '-main.jpg', '-small.jpg' %}
+  {% assign hero_medium = page.main | replace: '-main.jpg', '-medium.jpg' %}
+{% endif %}
+
+<div class="c-masthead" elementtiming="masthead" style="
+
+  {% if page.main %}
+    --masthead-image-small: url('{{ hero_small }}');
+    --masthead-image-medium: url('{{ hero_medium }}');
+    --masthead-image-main: url('{{ page.main }}');
+  {% endif %}
+
+  {% if page.placeholder and page.placeholder != '' %}
+    --masthead-placeholder: url('data:image/jpeg;base64,{{ page.placeholder }}');
+  {% endif %}
+
+">
 </div>
 
 <!-- Start page flow -->

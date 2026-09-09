@@ -16,8 +16,20 @@
   <link rel=preconnect href=https://fonts.googleapis.com>
   <link rel=preconnect href=https://fonts.gstatic.com crossorigin>
 
+  {% comment %}
+    Derive `small` and `medum` image paths from the `main` path. Conditionally
+    `preload` these when eligible.
+  {% endcomment %}
   {% if page.main %}
-    <link rel=preload as=image href="{{ page.main }}" fetchpriority=high>
+    {% if page.hero_responsive %}
+      {% assign hero_small = page.main | replace: '-main.jpg', '-small.jpg' %}
+      {% assign hero_medium = page.main | replace: '-main.jpg', '-medium.jpg' %}
+      <link rel=preload as=image type=image/jpeg href="{{ hero_small }}" media="(width < 30em)" fetchpriority=high>
+      <link rel=preload as=image type=image/jpeg href="{{ hero_medium }}" media="(30em <= width < 45em)" fetchpriority=high>
+      <link rel=preload as=image type=image/jpeg href="{{ page.main }}" media="(width >= 45em)" fetchpriority=high>
+    {% else %}
+      <link rel=preload as=image href="{{ page.main }}" fetchpriority=high>
+    {% endif %}
   {% endif %}
 
   <script>

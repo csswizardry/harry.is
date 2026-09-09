@@ -7,11 +7,26 @@
 .c-masthead {
   overflow: hidden;
   padding-top: 56.25%;
+  background-image:
+    var(--masthead-image-small, none),
+    var(--masthead-placeholder, none);
   background-size: cover;
   background-position: center center;
   box-shadow: 0 0 50px rgba(0,0,0,.5) inset;
   animation: masthead linear both;
   animation-timeline: scroll();
+
+  @include mq($from: sm) {
+    background-image:
+      var(--masthead-image-medium, none),
+      var(--masthead-placeholder, none);
+  }
+
+  @include mq($from: md) {
+    background-image:
+      var(--masthead-image-main, none),
+      var(--masthead-placeholder, none);
+  }
 
   @include mq($from: lg) {
     padding-top: 0;
