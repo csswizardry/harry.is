@@ -69,6 +69,8 @@
 
   <meta name=view-transition content=same-origin>
 
+  <link rel=preload as=style href="{{ site.google_fonts_url }}" fetchpriority=high>
+
   <script>
     performance.mark('HEAD End');
     performance.measure('HEAD Time', 'HEAD Start', 'HEAD End');
@@ -113,7 +115,7 @@
     </a>
   </footer>
 
-  <link rel=stylesheet href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,900;1,900&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&display=optional" fetchpriority=low>
+  <link rel=stylesheet href="{{ site.google_fonts_url }}" fetchpriority=low>
 
   <script type=speculationrules>
     {
